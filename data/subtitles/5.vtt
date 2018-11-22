@@ -1,0 +1,278 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.000 --> 00:00:04.519 align:start position:0%
+ 
+unit<00:00:00.359><c> vector</c><c.colorE5E5E5><00:00:00.690><c> times</c><00:00:01.079><c> Q</c><00:00:01.760><c> over</c><00:00:02.760><c> 4</c></c><c.colorCCCCCC><00:00:02.790><c> PI</c><00:00:03.330><c> epsilon</c><00:00:03.529><c> 0</c></c>
+
+00:00:04.519 --> 00:00:04.529 align:start position:0%
+unit vector<c.colorE5E5E5> times Q over 4</c><c.colorCCCCCC> PI epsilon 0
+ </c>
+
+00:00:04.529 --> 00:00:10.129 align:start position:0%
+unit vector<c.colorE5E5E5> times Q over 4</c><c.colorCCCCCC> PI epsilon 0
+times<00:00:06.259><c> that</c><00:00:07.259><c> distance</c></c><c.colorE5E5E5><00:00:08.480><c> square</c><00:00:09.480><c> which</c><00:00:09.780><c> happens</c></c>
+
+00:00:10.129 --> 00:00:10.139 align:start position:0%
+times that distance<c.colorE5E5E5> square which happens
+ </c>
+
+00:00:10.139 --> 00:00:17.269 align:start position:0%
+times that distance<c.colorE5E5E5> square which happens
+to</c><c.colorCCCCCC><00:00:10.230><c> be</c></c><c.colorE5E5E5><00:00:10.380><c> X</c><00:00:11.250><c> minus</c></c><c.colorCCCCCC><00:00:11.490><c> a</c><00:00:11.969><c> squared</c></c><c.colorE5E5E5><00:00:16.010><c> that's</c><00:00:17.010><c> the</c></c>
+
+00:00:17.269 --> 00:00:17.279 align:start position:0%
+to<c.colorCCCCCC> be</c><c.colorE5E5E5> X minus</c><c.colorCCCCCC> a squared</c><c.colorE5E5E5> that's the
+ </c>
+
+00:00:17.279 --> 00:00:18.769 align:start position:0%
+to<c.colorCCCCCC> be</c><c.colorE5E5E5> X minus</c><c.colorCCCCCC> a squared</c><c.colorE5E5E5> that's the
+repulsion<00:00:17.640><c> due</c><00:00:17.970><c> to</c><00:00:18.119><c> the</c><00:00:18.240><c> charge</c><00:00:18.480><c> that's</c></c>
+
+00:00:18.769 --> 00:00:18.779 align:start position:0%
+repulsion due to the charge that's
+ 
+
+00:00:18.779 --> 00:00:20.859 align:start position:0%
+repulsion due to the charge that's
+<c.colorE5E5E5>nearer<00:00:19.050><c> to</c><00:00:19.320><c> you</c></c>
+
+00:00:20.859 --> 00:00:20.869 align:start position:0%
+<c.colorE5E5E5>nearer to you
+ </c>
+
+00:00:20.869 --> 00:00:22.939 align:start position:0%
+<c.colorE5E5E5>nearer to you
+then<00:00:21.869><c> there's</c><00:00:22.050><c> the</c><00:00:22.109><c> attraction</c><00:00:22.619><c> due</c><00:00:22.740><c> to</c><00:00:22.830><c> the</c></c>
+
+00:00:22.939 --> 00:00:22.949 align:start position:0%
+then there's the attraction due to the
+ 
+
+00:00:22.949 --> 00:00:24.429 align:start position:0%
+then there's the attraction due to the
+minus<c.colorCCCCCC><00:00:23.250><c> Q</c><00:00:23.460><c> but</c><00:00:23.609><c> it's</c><00:00:23.760><c> a</c><00:00:23.820><c> little</c></c><c.colorE5E5E5><00:00:23.939><c> further</c><00:00:24.150><c> away</c></c>
+
+00:00:24.429 --> 00:00:24.439 align:start position:0%
+minus<c.colorCCCCCC> Q but it's a little</c><c.colorE5E5E5> further away
+ </c>
+
+00:00:24.439 --> 00:00:28.009 align:start position:0%
+minus<c.colorCCCCCC> Q but it's a little</c><c.colorE5E5E5> further away</c>
+<c.colorCCCCCC>so<00:00:25.439><c> it</c><00:00:25.650><c> looks</c><00:00:25.949><c> like</c><00:00:26.010><c> a</c><00:00:26.189><c> minus</c><00:00:26.580><c> sign</c></c><c.colorE5E5E5><00:00:26.849><c> but</c><00:00:27.750><c> it</c><00:00:27.900><c> is</c></c>
+
+00:00:28.009 --> 00:00:28.019 align:start position:0%
+<c.colorCCCCCC>so it looks like a minus sign</c><c.colorE5E5E5> but it is
+ </c>
+
+00:00:28.019 --> 00:00:35.360 align:start position:0%
+<c.colorCCCCCC>so it looks like a minus sign</c><c.colorE5E5E5> but it is
+X<00:00:28.230><c> plus</c><00:00:28.560><c> a</c><00:00:28.740><c> squared</c></c><c.colorCCCCCC><00:00:32.030><c> it</c></c><c.colorE5E5E5><00:00:33.030><c> is</c><00:00:33.300><c> equal</c><00:00:33.719><c> to</c><00:00:33.750><c> 0</c><00:00:34.370><c> you</c></c>
+
+00:00:35.360 --> 00:00:35.370 align:start position:0%
+X<c.colorE5E5E5> plus a squared</c><c.colorCCCCCC> it</c><c.colorE5E5E5> is equal to 0 you
+ </c>
+
+00:00:35.370 --> 00:00:37.970 align:start position:0%
+X<c.colorE5E5E5> plus a squared</c><c.colorCCCCCC> it</c><c.colorE5E5E5> is equal to 0 you
+get<00:00:35.550><c> 0</c></c><c.colorCCCCCC><00:00:35.840><c> C</c></c><c.colorE5E5E5><00:00:36.840><c> is</c><00:00:36.960><c> equal</c><00:00:37.200><c> to</c><00:00:37.230><c> 0</c><00:00:37.440><c> the</c><00:00:37.559><c> two</c><00:00:37.680><c> guys</c><00:00:37.829><c> are</c></c>
+
+00:00:37.970 --> 00:00:37.980 align:start position:0%
+get<c.colorE5E5E5> 0</c><c.colorCCCCCC> C</c><c.colorE5E5E5> is equal to 0 the two guys are
+ </c>
+
+00:00:37.980 --> 00:00:40.340 align:start position:0%
+get<c.colorE5E5E5> 0</c><c.colorCCCCCC> C</c><c.colorE5E5E5> is equal to 0 the two guys are
+sitting</c><c.colorCCCCCC><00:00:38.129><c> exactly</c><00:00:38.670><c> on</c><00:00:38.760><c> top</c><00:00:38.940><c> of</c></c><c.colorE5E5E5><00:00:39.090><c> each</c><00:00:39.210><c> other</c></c><c.colorCCCCCC><00:00:39.350><c> you</c></c>
+
+00:00:40.340 --> 00:00:40.350 align:start position:0%
+sitting<c.colorCCCCCC> exactly on top of</c><c.colorE5E5E5> each other</c><c.colorCCCCCC> you
+ </c>
+
+00:00:40.350 --> 00:00:42.799 align:start position:0%
+sitting<c.colorCCCCCC> exactly on top of</c><c.colorE5E5E5> each other</c><c.colorCCCCCC> you
+will<00:00:40.500><c> not</c><00:00:40.649><c> see</c><00:00:40.890><c> them</c></c><c.colorE5E5E5><00:00:41.040><c> so</c><00:00:41.910><c> you</c><00:00:41.969><c> see</c><00:00:42.360><c> them</c><00:00:42.570><c> only</c></c>
+
+00:00:42.799 --> 00:00:42.809 align:start position:0%
+will not see them<c.colorE5E5E5> so you see them only
+ </c>
+
+00:00:42.809 --> 00:00:44.330 align:start position:0%
+will not see them<c.colorE5E5E5> so you see them only</c>
+<c.colorE5E5E5>because</c><c.colorCCCCCC><00:00:43.260><c> they</c><00:00:43.559><c> are</c><00:00:43.620><c> not</c><00:00:43.770><c> on</c><00:00:43.800><c> top</c><00:00:44.100><c> of</c></c><c.colorE5E5E5><00:00:44.129><c> each</c></c>
+
+00:00:44.330 --> 00:00:44.340 align:start position:0%
+<c.colorE5E5E5>because</c><c.colorCCCCCC> they are not on top of</c><c.colorE5E5E5> each
+ </c>
+
+00:00:44.340 --> 00:00:46.549 align:start position:0%
+<c.colorE5E5E5>because</c><c.colorCCCCCC> they are not on top of</c><c.colorE5E5E5> each
+other<00:00:44.489><c> this</c><00:00:45.090><c> whole</c><00:00:45.300><c> thing</c><00:00:45.570><c> fails</c><00:00:45.899><c> to</c><00:00:46.170><c> be</c></c><c.colorCCCCCC><00:00:46.289><c> 0</c></c>
+
+00:00:46.549 --> 00:00:46.559 align:start position:0%
+<c.colorE5E5E5>other this whole thing fails to be</c><c.colorCCCCCC> 0
+ </c>
+
+00:00:46.559 --> 00:00:50.389 align:start position:0%
+<c.colorE5E5E5>other this whole thing fails to be</c><c.colorCCCCCC> 0</c>
+<c.colorE5E5E5>because<00:00:47.250><c> this</c><00:00:47.399><c> a</c><00:00:47.550><c> is</c></c><c.colorCCCCCC><00:00:47.940><c> not</c><00:00:48.120><c> 0</c><00:00:49.100><c> and</c><00:00:50.100><c> you</c><00:00:50.280><c> can</c></c>
+
+00:00:50.389 --> 00:00:50.399 align:start position:0%
+<c.colorE5E5E5>because this a is</c><c.colorCCCCCC> not 0 and you can
+ </c>
+
+00:00:50.399 --> 00:00:52.430 align:start position:0%
+<c.colorE5E5E5>because this a is</c><c.colorCCCCCC> not 0 and you can
+understand</c><c.colorE5E5E5><00:00:50.820><c> why</c><00:00:51.030><c> the</c><00:00:51.420><c> minute</c><00:00:51.690><c> a</c><00:00:51.809><c> is</c><00:00:51.870><c> not</c><00:00:52.140><c> 0</c></c>
+
+00:00:52.430 --> 00:00:52.440 align:start position:0%
+understand<c.colorE5E5E5> why the minute a is not 0
+ </c>
+
+00:00:52.440 --> 00:00:54.319 align:start position:0%
+understand<c.colorE5E5E5> why the minute a is not 0</c>
+<c.colorCCCCCC>you're<00:00:53.039><c> closer</c><00:00:53.309><c> to</c></c><c.colorE5E5E5><00:00:53.460><c> one</c><00:00:53.670><c> of</c><00:00:53.789><c> the</c><00:00:53.940><c> two</c><00:00:54.090><c> charges</c></c>
+
+00:00:54.319 --> 00:00:54.329 align:start position:0%
+<c.colorCCCCCC>you're closer to</c><c.colorE5E5E5> one of the two charges
+ </c>
+
+00:00:54.329 --> 00:00:56.090 align:start position:0%
+<c.colorCCCCCC>you're closer to</c><c.colorE5E5E5> one of the two charges
+so</c><c.colorCCCCCC><00:00:54.690><c> that</c><00:00:54.840><c> cannot</c><00:00:55.230><c> really</c><00:00:55.440><c> cancel</c></c><c.colorE5E5E5><00:00:55.710><c> each</c><00:00:55.980><c> other</c></c>
+
+00:00:56.090 --> 00:00:56.100 align:start position:0%
+<c.colorE5E5E5>so</c><c.colorCCCCCC> that cannot really cancel</c><c.colorE5E5E5> each other
+ </c>
+
+00:00:56.100 --> 00:00:59.510 align:start position:0%
+<c.colorE5E5E5>so</c><c.colorCCCCCC> that cannot really cancel</c><c.colorE5E5E5> each other</c>
+<c.colorE5E5E5>so</c><c.colorCCCCCC><00:00:57.379><c> you</c><00:00:58.379><c> got</c><00:00:58.649><c> to</c><00:00:58.770><c> manipulate</c><00:00:59.219><c> this</c><00:00:59.309><c> expression</c></c>
+
+00:00:59.510 --> 00:00:59.520 align:start position:0%
+<c.colorE5E5E5>so</c><c.colorCCCCCC> you got to manipulate this expression
+ </c>
+
+00:00:59.520 --> 00:01:03.380 align:start position:0%
+<c.colorE5E5E5>so</c><c.colorCCCCCC> you got to manipulate this expression</c>
+<c.colorE5E5E5>so<00:01:00.420><c> I</c><00:01:00.480><c> will</c><00:01:00.719><c> do</c></c><c.colorCCCCCC><00:01:00.840><c> that</c><00:01:01.020><c> now</c><00:01:01.699><c> Q</c><00:01:02.699><c> over</c><00:01:03.059><c> 4</c><00:01:03.090><c> PI</c></c>
+
+00:01:03.380 --> 00:01:03.390 align:start position:0%
+<c.colorE5E5E5>so I will do</c><c.colorCCCCCC> that now Q over 4 PI
+ </c>
+
+00:01:03.390 --> 00:01:07.730 align:start position:0%
+<c.colorE5E5E5>so I will do</c><c.colorCCCCCC> that now Q over 4 PI
+epsilon</c><c.colorE5E5E5><00:01:03.660><c> 0</c><00:01:04.820><c> you</c></c><c.colorCCCCCC><00:01:05.820><c> find</c><00:01:06.060><c> common</c></c><c.colorE5E5E5><00:01:06.270><c> denominator</c><00:01:06.960><c> it</c></c>
+
+00:01:07.730 --> 00:01:07.740 align:start position:0%
+<c.colorCCCCCC>epsilon</c><c.colorE5E5E5> 0 you</c><c.colorCCCCCC> find common</c><c.colorE5E5E5> denominator it
+ </c>
+
+00:01:07.740 --> 00:01:10.670 align:start position:0%
+<c.colorCCCCCC>epsilon</c><c.colorE5E5E5> 0 you</c><c.colorCCCCCC> find common</c><c.colorE5E5E5> denominator it
+remind<00:01:08.010><c> you</c></c><c.colorCCCCCC><00:01:08.130><c> x</c><00:01:08.400><c> plus</c><00:01:08.640><c> a</c><00:01:08.790><c> times</c><00:01:08.850><c> X</c></c><c.colorE5E5E5><00:01:09.210><c> minus</c><00:01:09.600><c> a</c><00:01:09.810><c> is</c><00:01:10.409><c> X</c></c>
+
+00:01:10.670 --> 00:01:10.680 align:start position:0%
+remind you<c.colorCCCCCC> x plus a times X</c><c.colorE5E5E5> minus a is X
+ </c>
+
+00:01:10.680 --> 00:01:13.719 align:start position:0%
+remind you<c.colorCCCCCC> x plus a times X</c><c.colorE5E5E5> minus a is X
+square<00:01:11.150><c> minus</c><00:01:12.150><c> a</c><00:01:12.270><c> square</c><00:01:12.330><c> and</c><00:01:13.020><c> everything</c><00:01:13.409><c> is</c></c>
+
+00:01:13.719 --> 00:01:13.729 align:start position:0%
+square<c.colorE5E5E5> minus a square and everything is
+ </c>
+
+00:01:13.729 --> 00:01:19.730 align:start position:0%
+square<c.colorE5E5E5> minus a square and everything is</c>
+<c.colorCCCCCC>under<00:01:14.729><c> squares</c><00:01:16.759><c> in</c><00:01:17.759><c> the</c><00:01:17.909><c> numerator</c><00:01:18.299><c> you</c><00:01:18.689><c> got</c><00:01:19.470><c> X</c></c>
+
+00:01:19.730 --> 00:01:19.740 align:start position:0%
+<c.colorCCCCCC>under squares in the numerator you got X
+ </c>
+
+00:01:19.740 --> 00:01:27.499 align:start position:0%
+<c.colorCCCCCC>under squares in the numerator you got X
+plus<00:01:19.860><c> a</c></c><c.colorE5E5E5><00:01:20.270><c> squared</c><00:01:21.740><c> minus</c><00:01:22.740><c> X</c><00:01:22.979><c> minus</c><00:01:23.070><c> a</c><00:01:24.080><c> square</c><00:01:26.509><c> so</c></c>
+
+00:01:27.499 --> 00:01:27.509 align:start position:0%
+plus<c.colorCCCCCC> a</c><c.colorE5E5E5> squared minus X minus a square so
+ </c>
+
+00:01:27.509 --> 00:01:31.940 align:start position:0%
+plus<c.colorCCCCCC> a</c><c.colorE5E5E5> squared minus X minus a square so
+what<00:01:27.689><c> does</c></c><c.colorCCCCCC><00:01:27.840><c> that</c></c><c.colorE5E5E5><00:01:27.960><c> give</c><00:01:28.200><c> me</c></c><c.colorCCCCCC><00:01:28.229><c> I</c><00:01:29.299><c> Q</c><00:01:30.380><c> over</c><00:01:31.380><c> 4</c></c><c.colorE5E5E5><00:01:31.409><c> PI</c></c>
+
+00:01:31.940 --> 00:01:31.950 align:start position:0%
+what does<c.colorCCCCCC> that</c><c.colorE5E5E5> give me</c><c.colorCCCCCC> I Q over 4</c><c.colorE5E5E5> PI
+ </c>
+
+00:01:31.950 --> 00:01:36.920 align:start position:0%
+what does<c.colorCCCCCC> that</c><c.colorE5E5E5> give me</c><c.colorCCCCCC> I Q over 4</c><c.colorE5E5E5> PI
+epsilon<00:01:31.979><c> 0</c><00:01:33.890><c> X</c><00:01:34.890><c> square</c><00:01:35.280><c> minus</c><00:01:35.729><c> a</c><00:01:35.939><c> square</c></c><c.colorCCCCCC><00:01:35.970><c> Square</c></c>
+
+00:01:36.920 --> 00:01:36.930 align:start position:0%
+epsilon 0<c.colorE5E5E5> X square minus a square</c><c.colorCCCCCC> Square
+ </c>
+
+00:01:36.930 --> 00:01:40.850 align:start position:0%
+epsilon 0<c.colorE5E5E5> X square minus a square</c><c.colorCCCCCC> Square
+and<00:01:37.290><c> how</c><00:01:38.130><c> about</c><00:01:38.340><c> on</c><00:01:38.490><c> the</c><00:01:38.610><c> top</c><00:01:39.470><c> can</c><00:01:40.470><c> you</c><00:01:40.500><c> do</c></c><c.colorE5E5E5><00:01:40.710><c> that</c></c>
+
+00:01:40.850 --> 00:01:40.860 align:start position:0%
+and how<c.colorCCCCCC> about on the top can you do</c><c.colorE5E5E5> that
+ </c>
+
+00:01:40.860 --> 00:01:43.160 align:start position:0%
+and how<c.colorCCCCCC> about on the top can you do</c><c.colorE5E5E5> that
+in<00:01:41.009><c> your</c><00:01:41.100><c> head</c><00:01:41.420><c> this</c></c><c.colorCCCCCC><00:01:42.420><c> is</c><00:01:42.540><c> going</c><00:01:42.720><c> to</c><00:01:42.780><c> be</c><00:01:42.869><c> X</c></c>
+
+00:01:43.160 --> 00:01:43.170 align:start position:0%
+in<c.colorE5E5E5> your head this</c><c.colorCCCCCC> is going to be X
+ </c>
+
+00:01:43.170 --> 00:01:46.460 align:start position:0%
+in<c.colorE5E5E5> your head this</c><c.colorCCCCCC> is going to be X
+square<00:01:43.320><c> plus</c><00:01:43.740><c> a</c><00:01:43.890><c> square</c><00:01:43.920><c> plus</c><00:01:44.490><c> 2x</c><00:01:44.880><c> a</c><00:01:45.470><c> you're</c></c>
+
+00:01:46.460 --> 00:01:46.470 align:start position:0%
+square<c.colorCCCCCC> plus a square plus 2x a you're
+ </c>
+
+00:01:46.470 --> 00:01:47.929 align:start position:0%
+square<c.colorCCCCCC> plus a square plus 2x a you're
+going<00:01:46.560><c> to</c><00:01:46.619><c> subtract</c></c><c.colorE5E5E5><00:01:47.070><c> from</c><00:01:47.220><c> it</c><00:01:47.369><c> X</c><00:01:47.610><c> square</c><00:01:47.909><c> plus</c></c>
+
+00:01:47.929 --> 00:01:47.939 align:start position:0%
+going<c.colorCCCCCC> to subtract</c><c.colorE5E5E5> from it X square plus
+ </c>
+
+00:01:47.939 --> 00:01:50.840 align:start position:0%
+going<c.colorCCCCCC> to subtract</c><c.colorE5E5E5> from it X square plus
+a<00:01:48.240><c> squared</c><00:01:48.570><c> minus</c><00:01:48.960><c> 2x</c><00:01:49.290><c> a</c><00:01:49.500><c> the</c><00:01:50.340><c> only</c><00:01:50.460><c> thing</c><00:01:50.700><c> that</c></c>
+
+00:01:50.840 --> 00:01:50.850 align:start position:0%
+a<c.colorE5E5E5> squared minus 2x a the only thing that
+ </c>
+
+00:01:50.850 --> 00:01:58.160 align:start position:0%
+a<c.colorE5E5E5> squared minus 2x a the only thing that
+will<00:01:51.030><c> survive</c><00:01:51.360><c> will</c></c><c.colorCCCCCC><00:01:51.630><c> be</c></c><c.colorE5E5E5><00:01:51.860><c> 4x</c></c><c.colorCCCCCC><00:01:52.860><c> a</c></c>
+
+00:01:58.160 --> 00:01:58.170 align:start position:0%
+ 
+ 
+
+00:01:58.170 --> 00:02:01.500 align:start position:0%
+ 
+everything<c.colorE5E5E5><00:01:59.170><c> okay</c></c>
+

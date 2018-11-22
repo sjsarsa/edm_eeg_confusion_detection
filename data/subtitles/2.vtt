@@ -1,0 +1,366 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.000 --> 00:00:02.330 align:start position:0%
+ 
+<c.colorE5E5E5>well<00:00:00.149><c> I</c><00:00:00.539><c> don't</c></c><c.colorCCCCCC><00:00:01.110><c> know</c><00:00:01.290><c> when</c><00:00:01.500><c> X</c></c><c.colorE5E5E5><00:00:01.709><c> does</c><00:00:01.949><c> not</c><00:00:01.979><c> equal</c></c>
+
+00:00:02.330 --> 00:00:02.340 align:start position:0%
+<c.colorE5E5E5>well I don't</c><c.colorCCCCCC> know when X</c><c.colorE5E5E5> does not equal
+ </c>
+
+00:00:02.340 --> 00:00:06.410 align:start position:0%
+<c.colorE5E5E5>well I don't</c><c.colorCCCCCC> know when X</c><c.colorE5E5E5> does not equal</c>
+<c.colorCCCCCC>to<00:00:02.879><c> and</c><00:00:03.240><c> let's</c><00:00:03.870><c> say</c><00:00:04.140><c> that</c></c><c.colorE5E5E5><00:00:04.339><c> when</c><00:00:05.339><c> x</c><00:00:05.609><c> equals</c></c><c.colorCCCCCC><00:00:05.879><c> two</c></c>
+
+00:00:06.410 --> 00:00:06.420 align:start position:0%
+<c.colorCCCCCC>to and let's say that</c><c.colorE5E5E5> when x equals</c><c.colorCCCCCC> two
+ </c>
+
+00:00:06.420 --> 00:00:10.970 align:start position:0%
+<c.colorCCCCCC>to and let's say that</c><c.colorE5E5E5> when x equals</c><c.colorCCCCCC> two</c>
+<c.colorE5E5E5>when<00:00:07.109><c> x</c><00:00:07.379><c> equals</c></c><c.colorCCCCCC><00:00:07.710><c> two</c><00:00:08.220><c> it</c></c><c.colorE5E5E5><00:00:08.429><c> is</c><00:00:09.030><c> equal</c></c><c.colorCCCCCC><00:00:09.570><c> to</c><00:00:09.780><c> one</c><00:00:10.710><c> so</c></c>
+
+00:00:10.970 --> 00:00:10.980 align:start position:0%
+<c.colorE5E5E5>when x equals</c><c.colorCCCCCC> two it</c><c.colorE5E5E5> is equal</c><c.colorCCCCCC> to one so
+ </c>
+
+00:00:10.980 --> 00:00:12.530 align:start position:0%
+<c.colorE5E5E5>when x equals</c><c.colorCCCCCC> two it</c><c.colorE5E5E5> is equal</c><c.colorCCCCCC> to one so
+once<00:00:11.639><c> again</c><00:00:11.820><c> a</c><00:00:11.849><c> kind</c><00:00:12.000><c> of</c><00:00:12.120><c> an</c></c><c.colorE5E5E5><00:00:12.210><c> interesting</c></c>
+
+00:00:12.530 --> 00:00:12.540 align:start position:0%
+<c.colorCCCCCC>once again a kind of an</c><c.colorE5E5E5> interesting
+ </c>
+
+00:00:12.540 --> 00:00:15.079 align:start position:0%
+<c.colorCCCCCC>once again a kind of an</c><c.colorE5E5E5> interesting</c>
+<c.colorCCCCCC>function<00:00:13.139><c> that</c><00:00:13.320><c> as</c><00:00:13.860><c> you'll</c><00:00:14.130><c> see</c><00:00:14.340><c> is</c><00:00:14.549><c> is</c><00:00:14.759><c> not</c></c>
+
+00:00:15.079 --> 00:00:15.089 align:start position:0%
+<c.colorCCCCCC>function that as you'll see is is not
+ </c>
+
+00:00:15.089 --> 00:00:17.710 align:start position:0%
+<c.colorCCCCCC>function that as you'll see is is not
+fully<00:00:15.509><c> continuous</c><00:00:16.139><c> it</c><00:00:16.740><c> has</c><00:00:16.890><c> a</c><00:00:16.920><c> discontinuity</c></c>
+
+00:00:17.710 --> 00:00:17.720 align:start position:0%
+fully continuous it has a discontinuity
+ 
+
+00:00:17.720 --> 00:00:21.980 align:start position:0%
+fully continuous it has a discontinuity
+<c.colorCCCCCC>so<00:00:18.720><c> let</c></c><c.colorE5E5E5><00:00:18.869><c> me</c><00:00:18.960><c> graph</c><00:00:19.320><c> it</c></c><c.colorCCCCCC><00:00:19.529><c> so</c><00:00:20.330><c> this</c><00:00:21.330><c> is</c><00:00:21.390><c> my</c><00:00:21.720><c> y</c></c>
+
+00:00:21.980 --> 00:00:21.990 align:start position:0%
+<c.colorCCCCCC>so let</c><c.colorE5E5E5> me graph it</c><c.colorCCCCCC> so this is my y
+ </c>
+
+00:00:21.990 --> 00:00:25.939 align:start position:0%
+<c.colorCCCCCC>so let</c><c.colorE5E5E5> me graph it</c><c.colorCCCCCC> so this is my y
+equals<00:00:22.500><c> f</c></c><c.colorE5E5E5><00:00:22.740><c> of</c></c><c.colorCCCCCC><00:00:22.920><c> X</c><00:00:23.100><c> axis</c><00:00:23.420><c> this</c><00:00:24.420><c> is</c><00:00:24.480><c> my</c><00:00:24.960><c> x</c></c><c.colorE5E5E5><00:00:25.260><c> axis</c></c>
+
+00:00:25.939 --> 00:00:25.949 align:start position:0%
+<c.colorCCCCCC>equals f</c><c.colorE5E5E5> of</c><c.colorCCCCCC> X axis this is my x</c><c.colorE5E5E5> axis
+ </c>
+
+00:00:25.949 --> 00:00:27.730 align:start position:0%
+<c.colorCCCCCC>equals f</c><c.colorE5E5E5> of</c><c.colorCCCCCC> X axis this is my x</c><c.colorE5E5E5> axis
+right<00:00:26.189><c> over</c></c><c.colorCCCCCC><00:00:26.250><c> here</c></c>
+
+00:00:27.730 --> 00:00:27.740 align:start position:0%
+right over<c.colorCCCCCC> here
+ </c>
+
+00:00:27.740 --> 00:00:31.609 align:start position:0%
+right over<c.colorCCCCCC> here
+let<00:00:28.740><c> me</c><00:00:28.859><c> draw</c><00:00:29.039><c> x</c><00:00:29.310><c> equals</c><00:00:29.820><c> 2x</c></c><c.colorE5E5E5><00:00:30.660><c> let's</c><00:00:31.380><c> say</c><00:00:31.500><c> this</c></c>
+
+00:00:31.609 --> 00:00:31.619 align:start position:0%
+let<c.colorCCCCCC> me draw x equals 2x</c><c.colorE5E5E5> let's say this
+ </c>
+
+00:00:31.619 --> 00:00:34.639 align:start position:0%
+let<c.colorCCCCCC> me draw x equals 2x</c><c.colorE5E5E5> let's say this</c>
+<c.colorCCCCCC>is<00:00:31.800><c> x</c><00:00:32.040><c> equals</c><00:00:32.399><c> 1</c></c><c.colorE5E5E5><00:00:32.759><c> this</c><00:00:33.210><c> is</c><00:00:33.450><c> x</c><00:00:33.719><c> equals</c><00:00:34.350><c> 2</c></c>
+
+00:00:34.639 --> 00:00:34.649 align:start position:0%
+<c.colorCCCCCC>is x equals 1</c><c.colorE5E5E5> this is x equals 2
+ </c>
+
+00:00:34.649 --> 00:00:39.260 align:start position:0%
+<c.colorCCCCCC>is x equals 1</c><c.colorE5E5E5> this is x equals 2</c>
+<c.colorCCCCCC>this<00:00:35.070><c> is</c><00:00:35.660><c> negative</c><00:00:36.660><c> 1</c><00:00:36.960><c> this</c><00:00:37.890><c> is</c><00:00:37.950><c> negative</c><00:00:38.309><c> 2</c></c>
+
+00:00:39.260 --> 00:00:39.270 align:start position:0%
+<c.colorCCCCCC>this is negative 1 this is negative 2
+ </c>
+
+00:00:39.270 --> 00:00:42.049 align:start position:0%
+<c.colorCCCCCC>this is negative 1 this is negative 2</c>
+<c.colorE5E5E5>and<00:00:39.559><c> then</c><00:00:40.559><c> let</c><00:00:40.800><c> me</c></c><c.colorCCCCCC><00:00:40.829><c> draw</c><00:00:41.070><c> so</c><00:00:41.520><c> everywhere</c></c>
+
+00:00:42.049 --> 00:00:42.059 align:start position:0%
+<c.colorE5E5E5>and then let me</c><c.colorCCCCCC> draw so everywhere
+ </c>
+
+00:00:42.059 --> 00:00:44.750 align:start position:0%
+<c.colorE5E5E5>and then let me</c><c.colorCCCCCC> draw so everywhere
+everywhere<00:00:42.750><c> except</c></c><c.colorE5E5E5><00:00:43.200><c> x</c><00:00:43.410><c> equals</c><00:00:43.800><c> 2</c></c><c.colorCCCCCC><00:00:44.010><c> it's</c><00:00:44.309><c> equal</c></c>
+
+00:00:44.750 --> 00:00:44.760 align:start position:0%
+everywhere except<c.colorE5E5E5> x equals 2</c><c.colorCCCCCC> it's equal
+ </c>
+
+00:00:44.760 --> 00:00:48.080 align:start position:0%
+everywhere except<c.colorE5E5E5> x equals 2</c><c.colorCCCCCC> it's equal</c>
+<c.colorCCCCCC>to<00:00:44.969><c> x</c><00:00:45.300><c> squared</c><00:00:46.260><c> so</c><00:00:47.010><c> let</c><00:00:47.160><c> me</c><00:00:47.280><c> draw</c><00:00:47.520><c> it</c><00:00:47.640><c> like</c><00:00:47.820><c> this</c></c>
+
+00:00:48.080 --> 00:00:48.090 align:start position:0%
+<c.colorCCCCCC>to x squared so let me draw it like this
+ </c>
+
+00:00:48.090 --> 00:00:50.990 align:start position:0%
+<c.colorCCCCCC>to x squared so let me draw it like this
+so<00:00:48.390><c> it's</c><00:00:48.510><c> going</c></c><c.colorE5E5E5><00:00:48.660><c> to</c><00:00:48.780><c> be</c><00:00:48.899><c> a</c><00:00:48.930><c> parabola</c></c><c.colorCCCCCC><00:00:49.640><c> it</c><00:00:50.640><c> look</c></c>
+
+00:00:50.990 --> 00:00:51.000 align:start position:0%
+<c.colorCCCCCC>so it's going</c><c.colorE5E5E5> to be a parabola</c><c.colorCCCCCC> it look
+ </c>
+
+00:00:51.000 --> 00:00:54.110 align:start position:0%
+<c.colorCCCCCC>so it's going</c><c.colorE5E5E5> to be a parabola</c><c.colorCCCCCC> it look
+something<00:00:51.329><c> like</c><00:00:51.570><c> this</c><00:00:52.670><c> it's</c><00:00:53.670><c> going</c></c><c.colorE5E5E5><00:00:53.820><c> to</c><00:00:53.969><c> look</c></c>
+
+00:00:54.110 --> 00:00:54.120 align:start position:0%
+something<c.colorCCCCCC> like this it's going</c><c.colorE5E5E5> to look
+ </c>
+
+00:00:54.120 --> 00:00:56.060 align:start position:0%
+something<c.colorCCCCCC> like this it's going</c><c.colorE5E5E5> to look
+something<00:00:54.390><c> let</c><00:00:55.289><c> me</c><00:00:55.320><c> draw</c><00:00:55.530><c> a</c><00:00:55.559><c> better</c><00:00:55.800><c> version</c></c>
+
+00:00:56.060 --> 00:00:56.070 align:start position:0%
+something let me<c.colorE5E5E5> draw a better version
+ </c>
+
+00:00:56.070 --> 00:00:58.310 align:start position:0%
+something let me<c.colorE5E5E5> draw a better version</c>
+<c.colorE5E5E5>of<00:00:56.250><c> the</c><00:00:56.399><c> parabola</c></c><c.colorCCCCCC><00:00:56.550><c> so</c><00:00:57.059><c> it</c><00:00:57.660><c> looks</c><00:00:57.960><c> something</c></c>
+
+00:00:58.310 --> 00:00:58.320 align:start position:0%
+<c.colorE5E5E5>of the parabola</c><c.colorCCCCCC> so it looks something
+ </c>
+
+00:00:58.320 --> 00:01:03.319 align:start position:0%
+<c.colorE5E5E5>of the parabola</c><c.colorCCCCCC> so it looks something
+like<00:00:58.859><c> this</c><00:00:59.550><c> it</c><00:01:01.250><c> looks</c><00:01:02.250><c> something</c><00:01:02.609><c> like</c><00:01:02.910><c> this</c></c>
+
+00:01:03.319 --> 00:01:03.329 align:start position:0%
+like this<c.colorCCCCCC> it looks something like this
+ </c>
+
+00:01:03.329 --> 00:01:05.660 align:start position:0%
+like this<c.colorCCCCCC> it looks something like this
+not<00:01:03.660><c> the</c><00:01:03.899><c> most</c></c><c.colorE5E5E5><00:01:04.500><c> beautifully</c><00:01:05.070><c> drawn</c><00:01:05.309><c> parabola</c></c>
+
+00:01:05.660 --> 00:01:05.670 align:start position:0%
+not the most<c.colorE5E5E5> beautifully drawn parabola
+ </c>
+
+00:01:05.670 --> 00:01:08.060 align:start position:0%
+not the most<c.colorE5E5E5> beautifully drawn parabola
+in<00:01:05.970><c> the</c><00:01:06.090><c> history</c><00:01:06.420><c> of</c><00:01:06.540><c> drawing</c><00:01:07.380><c> parabolas</c><00:01:08.040><c> but</c></c>
+
+00:01:08.060 --> 00:01:08.070 align:start position:0%
+in the history<c.colorE5E5E5> of drawing parabolas but
+ </c>
+
+00:01:08.070 --> 00:01:10.250 align:start position:0%
+in the history<c.colorE5E5E5> of drawing parabolas but</c>
+<c.colorE5E5E5>I<00:01:08.430><c> think</c><00:01:08.820><c> it'll</c><00:01:08.939><c> give</c><00:01:09.150><c> give</c><00:01:09.750><c> you</c><00:01:09.810><c> the</c><00:01:09.930><c> idea</c><00:01:10.200><c> I</c></c>
+
+00:01:10.250 --> 00:01:10.260 align:start position:0%
+<c.colorE5E5E5>I think it'll give give you the idea I
+ </c>
+
+00:01:10.260 --> 00:01:11.450 align:start position:0%
+<c.colorE5E5E5>I think it'll give give you the idea I
+think</c><c.colorCCCCCC><00:01:10.290><c> you</c><00:01:10.500><c> know</c><00:01:10.590><c> the</c><00:01:10.650><c> parabola</c><00:01:10.950><c> looks</c></c><c.colorE5E5E5><00:01:11.280><c> like</c></c>
+
+00:01:11.450 --> 00:01:11.460 align:start position:0%
+think<c.colorCCCCCC> you know the parabola looks</c><c.colorE5E5E5> like
+ </c>
+
+00:01:11.460 --> 00:01:13.190 align:start position:0%
+think<c.colorCCCCCC> you know the parabola looks</c><c.colorE5E5E5> like</c>
+<c.colorCCCCCC>hopefully<00:01:11.909><c> it's</c><00:01:12.299><c> a</c><00:01:12.450><c> would</c><00:01:12.810><c> other</c><00:01:12.930><c> way</c><00:01:13.080><c> it</c></c>
+
+00:01:13.190 --> 00:01:13.200 align:start position:0%
+<c.colorCCCCCC>hopefully it's a would other way it
+ </c>
+
+00:01:13.200 --> 00:01:15.020 align:start position:0%
+<c.colorCCCCCC>hopefully it's a would other way it
+should<00:01:13.650><c> be</c><00:01:13.799><c> symmetric</c><00:01:14.310><c> it</c><00:01:14.460><c> let</c><00:01:14.700><c> me</c></c><c.colorE5E5E5><00:01:14.729><c> draw</c></c><c.colorCCCCCC><00:01:14.970><c> a</c></c>
+
+00:01:15.020 --> 00:01:15.030 align:start position:0%
+should<c.colorCCCCCC> be symmetric it let me</c><c.colorE5E5E5> draw</c><c.colorCCCCCC> a
+ </c>
+
+00:01:15.030 --> 00:01:16.330 align:start position:0%
+should<c.colorCCCCCC> be symmetric it let me</c><c.colorE5E5E5> draw</c><c.colorCCCCCC> a
+redraw<00:01:15.420><c> it</c><00:01:15.479><c> because</c></c><c.colorE5E5E5><00:01:15.689><c> that's</c><00:01:15.840><c> kind</c></c><c.colorCCCCCC><00:01:15.990><c> of</c><00:01:16.080><c> ugly</c></c>
+
+00:01:16.330 --> 00:01:16.340 align:start position:0%
+redraw it because<c.colorE5E5E5> that's kind</c><c.colorCCCCCC> of ugly
+ </c>
+
+00:01:16.340 --> 00:01:20.950 align:start position:0%
+redraw it because<c.colorE5E5E5> that's kind</c><c.colorCCCCCC> of ugly</c>
+<c.colorE5E5E5>okay<00:01:17.340><c> let</c><00:01:17.939><c> me</c><00:01:18.590><c> and</c><00:01:19.590><c> that's</c><00:01:19.770><c> looking</c></c><c.colorCCCCCC><00:01:20.100><c> better</c></c>
+
+00:01:20.950 --> 00:01:20.960 align:start position:0%
+<c.colorE5E5E5>okay let me and that's looking</c><c.colorCCCCCC> better
+ </c>
+
+00:01:20.960 --> 00:01:22.280 align:start position:0%
+<c.colorE5E5E5>okay let me and that's looking</c><c.colorCCCCCC> better</c>
+<c.colorE5E5E5>okay</c>
+
+00:01:22.280 --> 00:01:22.290 align:start position:0%
+<c.colorE5E5E5>okay
+ </c>
+
+00:01:22.290 --> 00:01:25.039 align:start position:0%
+<c.colorE5E5E5>okay
+all<00:01:22.560><c> right</c><00:01:22.979><c> there</c><00:01:23.520><c> you</c></c><c.colorCCCCCC><00:01:23.549><c> go</c><00:01:23.700><c> all</c><00:01:24.630><c> right</c><00:01:24.689><c> now</c></c>
+
+00:01:25.039 --> 00:01:25.049 align:start position:0%
+all right<c.colorE5E5E5> there you</c><c.colorCCCCCC> go all right now
+ </c>
+
+00:01:25.049 --> 00:01:27.140 align:start position:0%
+all right<c.colorE5E5E5> there you</c><c.colorCCCCCC> go all right now
+this</c><c.colorE5E5E5><00:01:25.710><c> is</c></c><c.colorCCCCCC><00:01:25.770><c> this</c></c><c.colorE5E5E5><00:01:26.189><c> would</c><00:01:26.340><c> be</c><00:01:26.430><c> the</c><00:01:26.520><c> graph</c><00:01:26.700><c> of</c><00:01:26.970><c> just</c></c>
+
+00:01:27.140 --> 00:01:27.150 align:start position:0%
+<c.colorCCCCCC>this</c><c.colorE5E5E5> is</c><c.colorCCCCCC> this</c><c.colorE5E5E5> would be the graph of just
+ </c>
+
+00:01:27.150 --> 00:01:30.140 align:start position:0%
+<c.colorCCCCCC>this</c><c.colorE5E5E5> is</c><c.colorCCCCCC> this</c><c.colorE5E5E5> would be the graph of just</c>
+<c.colorE5E5E5>x<00:01:27.420><c> squared</c><00:01:28.110><c> but</c><00:01:28.799><c> this</c><00:01:28.829><c> can't</c><00:01:29.369><c> be</c><00:01:29.490><c> it's</c><00:01:29.700><c> not</c><00:01:29.939><c> x</c></c>
+
+00:01:30.140 --> 00:01:30.150 align:start position:0%
+<c.colorE5E5E5>x squared but this can't be it's not x
+ </c>
+
+00:01:30.150 --> 00:01:32.539 align:start position:0%
+<c.colorE5E5E5>x squared but this can't be it's not x
+squared<00:01:30.450><c> when</c><00:01:30.720><c> X</c><00:01:30.750><c> is</c><00:01:31.200><c> equal</c></c><c.colorCCCCCC><00:01:31.409><c> to</c></c><c.colorE5E5E5><00:01:31.680><c> 2</c><00:01:31.920><c> so</c><00:01:32.310><c> once</c></c>
+
+00:01:32.539 --> 00:01:32.549 align:start position:0%
+squared when X is equal<c.colorCCCCCC> to</c><c.colorE5E5E5> 2 so once
+ </c>
+
+00:01:32.549 --> 00:01:35.210 align:start position:0%
+squared when X is equal<c.colorCCCCCC> to</c><c.colorE5E5E5> 2 so once
+again<00:01:32.960><c> once</c></c><c.colorCCCCCC><00:01:33.960><c> again</c><00:01:34.170><c> when</c><00:01:34.320><c> X</c><00:01:34.530><c> is</c><00:01:34.650><c> equal</c><00:01:34.920><c> to</c></c><c.colorE5E5E5><00:01:34.950><c> 2</c></c>
+
+00:01:35.210 --> 00:01:35.220 align:start position:0%
+again once<c.colorCCCCCC> again when X is equal to</c><c.colorE5E5E5> 2
+ </c>
+
+00:01:35.220 --> 00:01:37.370 align:start position:0%
+again once<c.colorCCCCCC> again when X is equal to</c><c.colorE5E5E5> 2
+where<00:01:36.060><c> you</c><00:01:36.119><c> should</c><00:01:36.329><c> have</c><00:01:36.540><c> a</c><00:01:36.810><c> little</c></c><c.colorCCCCCC><00:01:37.020><c> bit</c><00:01:37.140><c> of</c><00:01:37.290><c> a</c></c>
+
+00:01:37.370 --> 00:01:37.380 align:start position:0%
+<c.colorE5E5E5>where you should have a little</c><c.colorCCCCCC> bit of a
+ </c>
+
+00:01:37.380 --> 00:01:40.730 align:start position:0%
+<c.colorE5E5E5>where you should have a little</c><c.colorCCCCCC> bit of a
+discontinuity<00:01:37.740><c> here</c></c><c.colorE5E5E5><00:01:38.810><c> so</c><00:01:39.810><c> I'll</c><00:01:39.930><c> draw</c><00:01:40.259><c> a</c><00:01:40.470><c> gap</c></c>
+
+00:01:40.730 --> 00:01:40.740 align:start position:0%
+discontinuity<c.colorCCCCCC> here</c><c.colorE5E5E5> so I'll draw a gap
+ </c>
+
+00:01:40.740 --> 00:01:42.859 align:start position:0%
+discontinuity<c.colorCCCCCC> here</c><c.colorE5E5E5> so I'll draw a gap
+right<00:01:40.979><c> over</c><00:01:41.340><c> there</c><00:01:41.549><c> because</c><00:01:42.000><c> when</c><00:01:42.210><c> x</c><00:01:42.450><c> equals</c><00:01:42.600><c> 2</c></c>
+
+00:01:42.859 --> 00:01:42.869 align:start position:0%
+right<c.colorE5E5E5> over there because when x equals 2
+ </c>
+
+00:01:42.869 --> 00:01:45.620 align:start position:0%
+right<c.colorE5E5E5> over there because when x equals 2
+the<00:01:43.110><c> function</c></c><c.colorCCCCCC><00:01:43.290><c> is</c><00:01:43.560><c> equal</c><00:01:43.680><c> to</c><00:01:43.829><c> 1</c></c><c.colorE5E5E5><00:01:44.270><c> when</c><00:01:45.270><c> X</c><00:01:45.509><c> is</c></c>
+
+00:01:45.620 --> 00:01:45.630 align:start position:0%
+the function<c.colorCCCCCC> is equal to 1</c><c.colorE5E5E5> when X is
+ </c>
+
+00:01:45.630 --> 00:01:47.359 align:start position:0%
+the function<c.colorCCCCCC> is equal to 1</c><c.colorE5E5E5> when X is
+equal</c><c.colorCCCCCC><00:01:45.750><c> to</c><00:01:45.990><c> 2</c><00:01:46.140><c> so</c><00:01:46.320><c> let's</c><00:01:46.470><c> say</c><00:01:46.619><c> that</c><00:01:46.649><c> and</c><00:01:46.950><c> I'm</c><00:01:47.340><c> not</c></c>
+
+00:01:47.359 --> 00:01:47.369 align:start position:0%
+<c.colorE5E5E5>equal</c><c.colorCCCCCC> to 2 so let's say that and I'm not
+ </c>
+
+00:01:47.369 --> 00:01:49.130 align:start position:0%
+<c.colorE5E5E5>equal</c><c.colorCCCCCC> to 2 so let's say that and I'm not</c>
+<c.colorE5E5E5>doing<00:01:47.670><c> them</c><00:01:47.909><c> on</c><00:01:48.000><c> the</c><00:01:48.090><c> same</c><00:01:48.329><c> scale</c></c><c.colorCCCCCC><00:01:48.509><c> but</c><00:01:48.960><c> let's</c></c>
+
+00:01:49.130 --> 00:01:49.140 align:start position:0%
+<c.colorE5E5E5>doing them on the same scale</c><c.colorCCCCCC> but let's
+ </c>
+
+00:01:49.140 --> 00:01:52.160 align:start position:0%
+<c.colorE5E5E5>doing them on the same scale</c><c.colorCCCCCC> but let's
+say<00:01:49.259><c> that</c><00:01:49.290><c> so</c><00:01:49.829><c> this</c><00:01:50.009><c> on</c></c><c.colorE5E5E5><00:01:50.310><c> X</c><00:01:50.790><c> on</c><00:01:51.030><c> the</c><00:01:51.299><c> graph</c><00:01:51.600><c> of</c><00:01:51.899><c> f</c></c>
+
+00:01:52.160 --> 00:01:52.170 align:start position:0%
+say that<c.colorCCCCCC> so this on</c><c.colorE5E5E5> X on the graph of f
+ </c>
+
+00:01:52.170 --> 00:01:53.780 align:start position:0%
+say that<c.colorCCCCCC> so this on</c><c.colorE5E5E5> X on the graph of f
+of<00:01:52.320><c> X</c><00:01:52.500><c> is</c><00:01:52.619><c> equal</c><00:01:52.710><c> to</c><00:01:52.920><c> x</c><00:01:53.100><c> squared</c></c><c.colorCCCCCC><00:01:53.159><c> this</c><00:01:53.490><c> would</c></c><c.colorE5E5E5><00:01:53.640><c> be</c></c>
+
+00:01:53.780 --> 00:01:53.790 align:start position:0%
+of X is equal<c.colorE5E5E5> to x squared</c><c.colorCCCCCC> this would</c><c.colorE5E5E5> be
+ </c>
+
+00:01:53.790 --> 00:01:57.709 align:start position:0%
+of X is equal<c.colorE5E5E5> to x squared</c><c.colorCCCCCC> this would</c><c.colorE5E5E5> be
+4</c><c.colorCCCCCC><00:01:54.210><c> this</c><00:01:54.990><c> would</c><00:01:55.170><c> be</c><00:01:55.409><c> 2</c><00:01:55.680><c> this</c><00:01:56.460><c> would</c></c><c.colorE5E5E5><00:01:56.670><c> be</c><00:01:56.850><c> 1</c><00:01:57.119><c> this</c></c>
+
+00:01:57.709 --> 00:01:57.719 align:start position:0%
+4<c.colorCCCCCC> this would be 2 this would</c><c.colorE5E5E5> be 1 this
+ </c>
+
+00:01:57.719 --> 00:02:02.090 align:start position:0%
+4<c.colorCCCCCC> this would be 2 this would</c><c.colorE5E5E5> be 1 this</c>
+<c.colorE5E5E5>would</c><c.colorCCCCCC><00:01:57.930><c> be</c><00:01:58.110><c> 3</c><00:01:58.610><c> so</c><00:01:59.610><c> when</c><00:02:00.270><c> X</c><00:02:00.570><c> is</c><00:02:00.810><c> equal</c><00:02:01.140><c> to</c><00:02:01.649><c> 2</c></c>
+
+00:02:02.090 --> 00:02:02.100 align:start position:0%
+<c.colorE5E5E5>would</c><c.colorCCCCCC> be 3 so when X is equal to 2
+ </c>
+
+00:02:02.100 --> 00:02:05.840 align:start position:0%
+<c.colorE5E5E5>would</c><c.colorCCCCCC> be 3 so when X is equal to 2
+our<00:02:02.189><c> function</c><00:02:03.030><c> is</c><00:02:03.270><c> equal</c></c>
+

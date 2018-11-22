@@ -1,0 +1,318 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.000 --> 00:00:04.460 align:start position:0%
+ 
+<c.colorCCCCCC>a<00:00:00.089><c> nucleus</c><00:00:01.490><c> in</c><00:00:02.490><c> the</c></c><c.colorE5E5E5><00:00:02.700><c> nucleus</c><00:00:03.120><c> or</c><00:00:03.360><c> some</c><00:00:03.750><c> things</c></c>
+
+00:00:04.460 --> 00:00:04.470 align:start position:0%
+<c.colorCCCCCC>a nucleus in the</c><c.colorE5E5E5> nucleus or some things
+ </c>
+
+00:00:04.470 --> 00:00:05.559 align:start position:0%
+<c.colorCCCCCC>a nucleus in the</c><c.colorE5E5E5> nucleus or some things
+called<00:00:04.710><c> protons</c></c>
+
+00:00:05.559 --> 00:00:05.569 align:start position:0%
+called protons
+ 
+
+00:00:05.569 --> 00:00:09.169 align:start position:0%
+called protons
+<c.colorCCCCCC>something's<00:00:06.569><c> called</c><00:00:06.779><c> neutrons</c><00:00:07.259><c> and</c></c><c.colorE5E5E5><00:00:08.179><c> outside</c></c>
+
+00:00:09.169 --> 00:00:09.179 align:start position:0%
+<c.colorCCCCCC>something's called neutrons and</c><c.colorE5E5E5> outside
+ </c>
+
+00:00:09.179 --> 00:00:11.660 align:start position:0%
+<c.colorCCCCCC>something's called neutrons and</c><c.colorE5E5E5> outside
+or<00:00:09.360><c> something</c></c><c.colorCCCCCC><00:00:09.630><c> called</c><00:00:10.019><c> electrons</c><00:00:10.469><c> that's</c><00:00:11.460><c> all</c></c>
+
+00:00:11.660 --> 00:00:11.670 align:start position:0%
+<c.colorE5E5E5>or something</c><c.colorCCCCCC> called electrons that's all
+ </c>
+
+00:00:11.670 --> 00:00:18.340 align:start position:0%
+<c.colorE5E5E5>or something</c><c.colorCCCCCC> called electrons that's all
+the</c><c.colorE5E5E5><00:00:11.790><c> atomic</c><00:00:12.179><c> structure</c><00:00:12.450><c> we</c><00:00:13.230><c> need</c><00:00:15.619><c> then</c><00:00:16.619><c> we</c></c><c.colorCCCCCC><00:00:16.920><c> say</c></c>
+
+00:00:18.340 --> 00:00:18.350 align:start position:0%
+the<c.colorE5E5E5> atomic structure we need then we</c><c.colorCCCCCC> say
+ </c>
+
+00:00:18.350 --> 00:00:21.609 align:start position:0%
+the<c.colorE5E5E5> atomic structure we need then we</c><c.colorCCCCCC> say
+certain<00:00:19.350><c> entities</c><00:00:19.949><c> have</c><00:00:20.760><c> a</c><00:00:20.820><c> property</c><00:00:21.330><c> called</c></c>
+
+00:00:21.609 --> 00:00:21.619 align:start position:0%
+certain entities have a property called
+ 
+
+00:00:21.619 --> 00:00:25.730 align:start position:0%
+certain entities have a property called
+electric<00:00:22.619><c> charge</c><00:00:23.840><c> the</c><00:00:24.840><c> symbol</c><00:00:25.199><c> for</c><00:00:25.320><c> electric</c>
+
+00:00:25.730 --> 00:00:25.740 align:start position:0%
+electric charge the symbol for electric
+ 
+
+00:00:25.740 --> 00:00:29.990 align:start position:0%
+electric charge the symbol for electric
+charge<00:00:26.039><c> is</c><00:00:26.310><c> Q</c><00:00:26.760><c> and</c><c.colorCCCCCC><00:00:28.369><c> you</c><00:00:29.369><c> can</c><00:00:29.519><c> put</c><00:00:29.670><c> a</c><00:00:29.699><c> subscript</c></c>
+
+00:00:29.990 --> 00:00:30.000 align:start position:0%
+charge is Q and<c.colorCCCCCC> you can put a subscript
+ </c>
+
+00:00:30.000 --> 00:00:32.780 align:start position:0%
+charge is Q and<c.colorCCCCCC> you can put a subscript
+to<00:00:30.390><c> say</c><00:00:30.570><c> who</c><00:00:30.750><c> you're</c><00:00:30.960><c> talking</c><00:00:31.320><c> about</c></c><c.colorE5E5E5><00:00:31.730><c> so</c><00:00:32.730><c> you</c></c>
+
+00:00:32.780 --> 00:00:32.790 align:start position:0%
+to say who you're talking about<c.colorE5E5E5> so you
+ </c>
+
+00:00:32.790 --> 00:00:38.750 align:start position:0%
+to say who you're talking about<c.colorE5E5E5> so you
+can</c><c.colorCCCCCC><00:00:32.880><c> say</c><00:00:33.300><c> Q</c><00:00:34.260><c> for</c><00:00:34.469><c> the</c><00:00:34.559><c> neutron</c></c><c.colorE5E5E5><00:00:35.120><c> is</c><00:00:36.120><c> zero</c></c><c.colorCCCCCC><00:00:36.600><c> a</c><00:00:37.760><c> Q</c></c>
+
+00:00:38.750 --> 00:00:38.760 align:start position:0%
+can<c.colorCCCCCC> say Q for the neutron</c><c.colorE5E5E5> is zero</c><c.colorCCCCCC> a Q
+ </c>
+
+00:00:38.760 --> 00:00:42.170 align:start position:0%
+can<c.colorCCCCCC> say Q for the neutron</c><c.colorE5E5E5> is zero</c><c.colorCCCCCC> a Q
+for<00:00:38.969><c> the</c><00:00:39.000><c> electron</c><00:00:39.739><c> is</c><00:00:40.739><c> minus</c></c><c.colorE5E5E5><00:00:41.070><c> one</c><00:00:41.550><c> point</c><00:00:41.850><c> six</c></c>
+
+00:00:42.170 --> 00:00:42.180 align:start position:0%
+for the electron is minus<c.colorE5E5E5> one point six
+ </c>
+
+00:00:42.180 --> 00:00:45.500 align:start position:0%
+for the electron is minus<c.colorE5E5E5> one point six
+times</c><c.colorCCCCCC><00:00:42.620><c> ten</c><00:00:43.620><c> to</c><00:00:43.710><c> the</c><00:00:43.770><c> minus</c></c><c.colorE5E5E5><00:00:43.860><c> nineteen</c><00:00:44.370><c> and</c></c><c.colorCCCCCC><00:00:44.879><c> it's</c></c>
+
+00:00:45.500 --> 00:00:45.510 align:start position:0%
+times<c.colorCCCCCC> ten to the minus</c><c.colorE5E5E5> nineteen and</c><c.colorCCCCCC> it's
+ </c>
+
+00:00:45.510 --> 00:00:49.760 align:start position:0%
+times<c.colorCCCCCC> ten to the minus</c><c.colorE5E5E5> nineteen and</c><c.colorCCCCCC> it's</c>
+<c.colorE5E5E5>measured<00:00:45.840><c> in</c><00:00:45.989><c> coulombs</c><00:00:48.230><c> the</c><00:00:49.230><c> Q</c><00:00:49.469><c> for</c><00:00:49.739><c> the</c></c>
+
+00:00:49.760 --> 00:00:49.770 align:start position:0%
+<c.colorE5E5E5>measured in coulombs the Q for the
+ </c>
+
+00:00:49.770 --> 00:00:57.400 align:start position:0%
+<c.colorE5E5E5>measured in coulombs the Q for the</c>
+<c.colorE5E5E5>proton<00:00:51.440><c> is</c><00:00:52.440><c> really</c><00:00:53.690><c> let</c><00:00:54.690><c> me</c><00:00:54.780><c> put</c><00:00:54.960><c> it</c><00:00:55.050><c> this</c></c><c.colorCCCCCC><00:00:55.110><c> way</c></c>
+
+00:00:57.400 --> 00:00:57.410 align:start position:0%
+ 
+ 
+
+00:00:57.410 --> 00:01:00.170 align:start position:0%
+ 
+<c.colorCCCCCC>Q<00:00:58.410><c> for</c><00:00:58.559><c> the</c></c><c.colorE5E5E5><00:00:58.590><c> proton</c><00:00:58.980><c> is</c><00:00:59.070><c> a</c><00:00:59.100><c> positive</c><00:00:59.579><c> number</c></c><c.colorCCCCCC><00:00:59.730><c> so</c></c>
+
+00:01:00.170 --> 00:01:00.180 align:start position:0%
+<c.colorCCCCCC>Q for the</c><c.colorE5E5E5> proton is a positive number</c><c.colorCCCCCC> so
+ </c>
+
+00:01:00.180 --> 00:01:01.520 align:start position:0%
+<c.colorCCCCCC>Q for the</c><c.colorE5E5E5> proton is a positive number</c><c.colorCCCCCC> so
+it's<00:01:00.329><c> really</c></c><c.colorE5E5E5><00:01:00.480><c> that</c><00:01:00.750><c> these</c><00:01:00.899><c> minus</c></c><c.colorCCCCCC><00:01:01.289><c> signs</c></c>
+
+00:01:01.520 --> 00:01:01.530 align:start position:0%
+it's really<c.colorE5E5E5> that these minus</c><c.colorCCCCCC> signs
+ </c>
+
+00:01:01.530 --> 00:01:08.620 align:start position:0%
+it's really<c.colorE5E5E5> that these minus</c><c.colorCCCCCC> signs
+cancel<00:01:06.140><c> now</c><00:01:07.140><c> the</c><00:01:07.200><c> importance</c><00:01:07.770><c> of</c><00:01:07.890><c> the</c><00:01:07.950><c> Coulomb</c></c>
+
+00:01:08.620 --> 00:01:08.630 align:start position:0%
+cancel now the importance of the Coulomb
+ 
+
+00:01:08.630 --> 00:01:11.870 align:start position:0%
+cancel now the importance of the Coulomb
+is<00:01:09.630><c> that</c><00:01:10.110><c> if</c><c.colorE5E5E5><00:01:10.200><c> anything</c><00:01:10.710><c> has</c><00:01:10.920><c> some</c><00:01:11.280><c> coulombs</c><00:01:11.670><c> on</c></c>
+
+00:01:11.870 --> 00:01:11.880 align:start position:0%
+is that if<c.colorE5E5E5> anything has some coulombs on
+ </c>
+
+00:01:11.880 --> 00:01:14.780 align:start position:0%
+is that if<c.colorE5E5E5> anything has some coulombs on
+it<00:01:12.290><c> it</c><00:01:13.290><c> will</c><00:01:13.500><c> interact</c><00:01:13.799><c> with</c><00:01:14.159><c> anything</c></c><c.colorCCCCCC><00:01:14.520><c> else</c></c>
+
+00:01:14.780 --> 00:01:14.790 align:start position:0%
+it it will interact<c.colorE5E5E5> with anything</c><c.colorCCCCCC> else
+ </c>
+
+00:01:14.790 --> 00:01:18.260 align:start position:0%
+it it will interact<c.colorE5E5E5> with anything</c><c.colorCCCCCC> else</c>
+<c.colorE5E5E5>that<00:01:15.090><c> has</c><00:01:15.330><c> some</c><00:01:15.509><c> coulombs</c><00:01:15.990><c> on</c><00:01:16.170><c> it</c><00:01:16.939><c> so</c><00:01:17.939><c> that</c><00:01:18.150><c> if</c></c>
+
+00:01:18.260 --> 00:01:18.270 align:start position:0%
+<c.colorE5E5E5>that has some coulombs on it so that if
+ </c>
+
+00:01:18.270 --> 00:01:23.359 align:start position:0%
+<c.colorE5E5E5>that has some coulombs on it so that if</c>
+<c.colorE5E5E5>you<00:01:18.390><c> have</c><00:01:18.770><c> two</c><00:01:19.770><c> entities</c><00:01:21.619><c> and</c><00:01:22.619><c> this</c><00:01:22.950><c> one</c><00:01:23.159><c> has</c><00:01:23.340><c> a</c></c>
+
+00:01:23.359 --> 00:01:23.369 align:start position:0%
+<c.colorE5E5E5>you have two entities and this one has a
+ </c>
+
+00:01:23.369 --> 00:01:26.660 align:start position:0%
+<c.colorE5E5E5>you have two entities and this one has a
+charge<00:01:23.820><c> of</c></c><c.colorCCCCCC><00:01:23.909><c> Q</c><00:01:24.360><c> one</c><00:01:24.570><c> coulombs</c><00:01:25.280><c> that</c><00:01:26.280><c> man</c></c><c.colorE5E5E5><00:01:26.520><c> has</c><00:01:26.640><c> a</c></c>
+
+00:01:26.660 --> 00:01:26.670 align:start position:0%
+charge of<c.colorCCCCCC> Q one coulombs that man</c><c.colorE5E5E5> has a
+ </c>
+
+00:01:26.670 --> 00:01:29.390 align:start position:0%
+charge of<c.colorCCCCCC> Q one coulombs that man</c><c.colorE5E5E5> has a
+charge<00:01:26.970><c> of</c><00:01:27.150><c> Q</c><00:01:27.330><c> two</c><00:01:27.509><c> coulombs</c><00:01:27.869><c> and</c><00:01:28.400><c> the</c></c>
+
+00:01:29.390 --> 00:01:29.400 align:start position:0%
+charge<c.colorE5E5E5> of Q two coulombs and the
+ </c>
+
+00:01:29.400 --> 00:01:32.960 align:start position:0%
+charge<c.colorE5E5E5> of Q two coulombs and the
+distance<00:01:29.790><c> between</c><00:01:29.939><c> them</c><00:01:30.270><c> is</c><00:01:30.299><c> R</c><00:01:31.790><c> then</c><00:01:32.790><c> the</c></c>
+
+00:01:32.960 --> 00:01:32.970 align:start position:0%
+distance<c.colorE5E5E5> between them is R then the
+ </c>
+
+00:01:32.970 --> 00:01:39.920 align:start position:0%
+distance<c.colorE5E5E5> between them is R then the
+force<00:01:33.270><c> is</c><00:01:34.130><c> Q</c><00:01:35.130><c> 1</c><00:01:35.340><c> Q</c><00:01:35.640><c> 2</c><00:01:36.420><c> over</c></c><c.colorCCCCCC><00:01:37.820><c> 4</c><00:01:38.820><c> PI</c><00:01:39.090><c> epsilon</c><00:01:39.119><c> zero</c></c>
+
+00:01:39.920 --> 00:01:39.930 align:start position:0%
+force is Q 1<c.colorE5E5E5> Q 2 over</c><c.colorCCCCCC> 4 PI epsilon zero
+ </c>
+
+00:01:39.930 --> 00:01:43.340 align:start position:0%
+force is Q 1<c.colorE5E5E5> Q 2 over</c><c.colorCCCCCC> 4 PI epsilon zero</c>
+<c.colorCCCCCC>R<00:01:40.829><c> square</c><00:01:41.610><c> I'm</c><00:01:41.850><c> purposely</c><00:01:42.329><c> not</c><00:01:42.630><c> putting</c><00:01:42.990><c> all</c></c>
+
+00:01:43.340 --> 00:01:43.350 align:start position:0%
+<c.colorCCCCCC>R square I'm purposely not putting all
+ </c>
+
+00:01:43.350 --> 00:01:46.100 align:start position:0%
+<c.colorCCCCCC>R square I'm purposely not putting all
+the<00:01:43.950><c> vector</c><00:01:44.220><c> signs</c><00:01:44.549><c> on</c><00:01:44.790><c> F</c><00:01:44.970><c> because</c></c><c.colorE5E5E5><00:01:45.600><c> it</c><00:01:45.750><c> takes</c></c>
+
+00:01:46.100 --> 00:01:46.110 align:start position:0%
+the vector signs on F because<c.colorE5E5E5> it takes
+ </c>
+
+00:01:46.110 --> 00:01:47.359 align:start position:0%
+the vector signs on F because<c.colorE5E5E5> it takes
+too<00:01:46.290><c> long</c><00:01:46.320><c> but</c><00:01:46.680><c> you</c><00:01:46.710><c> all</c><00:01:46.920><c> know</c><00:01:47.070><c> what</c><00:01:47.250><c> the</c></c>
+
+00:01:47.359 --> 00:01:47.369 align:start position:0%
+too long but you<c.colorE5E5E5> all know what the
+ </c>
+
+00:01:47.369 --> 00:01:50.270 align:start position:0%
+too long but you<c.colorE5E5E5> all know what the
+answer<00:01:47.700><c> is</c><00:01:47.750><c> namely</c><00:01:48.750><c> if</c><00:01:49.530><c> you</c><00:01:49.710><c> want</c><00:01:49.920><c> the</c><00:01:50.009><c> force</c></c>
+
+00:01:50.270 --> 00:01:50.280 align:start position:0%
+answer is<c.colorE5E5E5> namely if you want the force
+ </c>
+
+00:01:50.280 --> 00:01:54.440 align:start position:0%
+answer is<c.colorE5E5E5> namely if you want the force
+on</c><c.colorCCCCCC><00:01:50.490><c> two</c></c><c.colorE5E5E5><00:01:50.869><c> you're</c><00:01:51.869><c> the</c><00:01:51.990><c> one</c></c><c.colorCCCCCC><00:01:52.200><c> will</c><00:01:53.189><c> be</c></c><c.colorE5E5E5><00:01:53.450><c> repulsive</c></c>
+
+00:01:54.440 --> 00:01:54.450 align:start position:0%
+on<c.colorCCCCCC> two</c><c.colorE5E5E5> you're the one</c><c.colorCCCCCC> will be</c><c.colorE5E5E5> repulsive
+ </c>
+
+00:01:54.450 --> 00:01:56.840 align:start position:0%
+on<c.colorCCCCCC> two</c><c.colorE5E5E5> you're the one</c><c.colorCCCCCC> will be</c><c.colorE5E5E5> repulsive</c>
+<c.colorCCCCCC>if<00:01:54.750><c> Q</c><00:01:55.229><c> 1</c><00:01:55.350><c> and</c><00:01:55.470><c> Q</c></c><c.colorE5E5E5><00:01:55.530><c> 2</c><00:01:55.829><c> are</c></c><c.colorCCCCCC><00:01:55.860><c> of</c><00:01:56.009><c> the</c><00:01:56.130><c> same</c><00:01:56.310><c> sign</c></c><c.colorE5E5E5><00:01:56.640><c> and</c></c>
+
+00:01:56.840 --> 00:01:56.850 align:start position:0%
+<c.colorCCCCCC>if Q 1 and Q</c><c.colorE5E5E5> 2 are</c><c.colorCCCCCC> of the same sign</c><c.colorE5E5E5> and
+ </c>
+
+00:01:56.850 --> 00:02:03.190 align:start position:0%
+<c.colorCCCCCC>if Q 1 and Q</c><c.colorE5E5E5> 2 are</c><c.colorCCCCCC> of the same sign</c><c.colorE5E5E5> and
+point<00:01:57.570><c> in</c><00:01:57.780><c> the</c><00:01:57.840><c> direction</c></c><c.colorCCCCCC><00:01:58.369><c> joining</c></c><c.colorE5E5E5><00:01:59.369><c> them</c><00:01:59.520><c> yep</c></c>
+
+00:02:03.190 --> 00:02:03.200 align:start position:0%
+ 
+ 
+
+00:02:03.200 --> 00:02:08.150 align:start position:0%
+ 
+yes<00:02:04.640><c> thank</c><00:02:05.640><c> you</c><c.colorCCCCCC><00:02:06.500><c> there</c><00:02:07.500><c> is</c></c><c.colorE5E5E5><00:02:07.530><c> another</c><00:02:07.650><c> force</c></c>
+
+00:02:08.150 --> 00:02:08.160 align:start position:0%
+yes thank you<c.colorCCCCCC> there is</c><c.colorE5E5E5> another force
+ </c>
+
+00:02:08.160 --> 00:02:10.190 align:start position:0%
+yes thank you<c.colorCCCCCC> there is</c><c.colorE5E5E5> another force
+lock<00:02:08.459><c> which</c><00:02:08.789><c> is</c><00:02:08.910><c> R</c><00:02:09.119><c> squared</c></c><c.colorCCCCCC><00:02:09.479><c> not</c></c><c.colorE5E5E5><00:02:09.780><c> so</c><00:02:10.020><c> famous</c></c>
+
+00:02:10.190 --> 00:02:10.200 align:start position:0%
+<c.colorE5E5E5>lock which is R squared</c><c.colorCCCCCC> not</c><c.colorE5E5E5> so famous
+ </c>
+
+00:02:10.200 --> 00:02:11.900 align:start position:0%
+<c.colorE5E5E5>lock which is R squared</c><c.colorCCCCCC> not</c><c.colorE5E5E5> so famous
+called<00:02:10.590><c> Hookes</c><00:02:10.770><c> law</c><00:02:11.009><c> but</c></c><c.colorCCCCCC><00:02:11.250><c> you're</c><00:02:11.790><c> absolutely</c></c>
+
+00:02:11.900 --> 00:02:11.910 align:start position:0%
+called Hookes law but<c.colorCCCCCC> you're absolutely
+ </c>
+
+00:02:11.910 --> 00:02:14.570 align:start position:0%
+called Hookes law but<c.colorCCCCCC> you're absolutely</c>
+<c.colorCCCCCC>right<00:02:13.099><c> that's</c><00:02:14.099><c> the</c><00:02:14.250><c> difference</c><00:02:14.550><c> between</c></c>
+
+00:02:14.570 --> 00:02:14.580 align:start position:0%
+<c.colorCCCCCC>right that's the difference between
+ </c>
+
+00:02:14.580 --> 00:02:16.970 align:start position:0%
+<c.colorCCCCCC>right that's the difference between</c>
+<c.colorE5E5E5>being<00:02:15.150><c> Newton</c><00:02:15.690><c> and</c><00:02:15.840><c> being</c><00:02:16.080><c> hook</c><00:02:16.349><c> hook</c><00:02:16.770><c> is</c></c>
+
+00:02:16.970 --> 00:02:16.980 align:start position:0%
+<c.colorE5E5E5>being Newton and being hook hook is
+ </c>
+
+00:02:16.980 --> 00:02:18.770 align:start position:0%
+<c.colorE5E5E5>being Newton and being hook hook is
+known<00:02:17.130><c> for</c><00:02:17.340><c> the</c><00:02:17.430><c> R</c><00:02:17.550><c> square</c><00:02:17.910><c> law</c><00:02:18.120><c> Newton's</c></c>
+
+00:02:18.770 --> 00:02:18.780 align:start position:0%
+known<c.colorE5E5E5> for the R square law Newton's
+ </c>
+
+00:02:18.780 --> 00:02:23.150 align:start position:0%
+known<c.colorE5E5E5> for the R square law Newton's
+known<00:02:19.170><c> for</c><00:02:19.440><c> the</c></c><c.colorCCCCCC><00:02:19.560><c> one</c><00:02:20.220><c> over</c><00:02:20.370><c> R</c></c><c.colorE5E5E5><00:02:20.489><c> square</c><00:02:20.970><c> law</c></c>
+

@@ -1,0 +1,422 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.000 --> 00:00:03.649 align:start position:0%
+ 
+<c.colorCCCCCC>action</c><c.colorE5E5E5><00:00:00.299><c> so</c><00:00:00.930><c> let's</c><00:00:01.140><c> define</c><00:00:01.319><c> f</c><00:00:01.860><c> of</c><00:00:02.220><c> X</c><00:00:02.429><c> let's</c></c><c.colorCCCCCC><00:00:02.730><c> say</c></c>
+
+00:00:03.649 --> 00:00:03.659 align:start position:0%
+<c.colorCCCCCC>action</c><c.colorE5E5E5> so let's define f of X let's</c><c.colorCCCCCC> say
+ </c>
+
+00:00:03.659 --> 00:00:06.950 align:start position:0%
+<c.colorCCCCCC>action</c><c.colorE5E5E5> so let's define f of X let's</c><c.colorCCCCCC> say</c>
+<c.colorE5E5E5>that<00:00:03.840><c> f</c><00:00:04.020><c> of</c><00:00:04.200><c> X</c><00:00:04.440><c> is</c><00:00:04.680><c> going</c><00:00:05.100><c> to</c><00:00:05.279><c> be</c><00:00:05.430><c> X</c><00:00:05.700><c> minus</c></c><c.colorCCCCCC><00:00:06.029><c> 1</c></c>
+
+00:00:06.950 --> 00:00:06.960 align:start position:0%
+<c.colorE5E5E5>that f of X is going to be X minus</c><c.colorCCCCCC> 1
+ </c>
+
+00:00:06.960 --> 00:00:11.030 align:start position:0%
+<c.colorE5E5E5>that f of X is going to be X minus</c><c.colorCCCCCC> 1
+over</c><c.colorE5E5E5><00:00:07.490><c> X</c><00:00:08.490><c> minus</c><00:00:08.970><c> 1</c></c><c.colorCCCCCC><00:00:09.389><c> and</c></c><c.colorE5E5E5><00:00:09.840><c> you</c><00:00:10.349><c> might</c><00:00:10.530><c> say</c><00:00:10.650><c> hey</c></c><c.colorCCCCCC><00:00:10.800><c> Sal</c></c>
+
+00:00:11.030 --> 00:00:11.040 align:start position:0%
+over<c.colorE5E5E5> X minus 1</c><c.colorCCCCCC> and</c><c.colorE5E5E5> you might say hey</c><c.colorCCCCCC> Sal
+ </c>
+
+00:00:11.040 --> 00:00:12.140 align:start position:0%
+over<c.colorE5E5E5> X minus 1</c><c.colorCCCCCC> and</c><c.colorE5E5E5> you might say hey</c><c.colorCCCCCC> Sal
+look<00:00:11.219><c> I</c><00:00:11.340><c> have</c><00:00:11.460><c> the</c><00:00:11.550><c> same</c><00:00:11.759><c> thing</c><00:00:11.969><c> in</c></c><c.colorE5E5E5><00:00:12.030><c> the</c></c>
+
+00:00:12.140 --> 00:00:12.150 align:start position:0%
+look I have the same thing in<c.colorE5E5E5> the
+ </c>
+
+00:00:12.150 --> 00:00:13.549 align:start position:0%
+look I have the same thing in<c.colorE5E5E5> the
+numerator<00:00:12.269><c> in</c><00:00:12.690><c> the</c><00:00:12.750><c> denominator</c><00:00:12.780><c> if</c><00:00:13.320><c> I</c><00:00:13.380><c> have</c></c>
+
+00:00:13.549 --> 00:00:13.559 align:start position:0%
+numerator<c.colorE5E5E5> in the denominator if I have
+ </c>
+
+00:00:13.559 --> 00:00:15.919 align:start position:0%
+numerator<c.colorE5E5E5> in the denominator if I have
+something<00:00:14.340><c> divided</c><00:00:14.759><c> by</c><00:00:14.880><c> itself</c><00:00:15.210><c> that</c><00:00:15.839><c> would</c></c>
+
+00:00:15.919 --> 00:00:15.929 align:start position:0%
+something divided by itself<c.colorE5E5E5> that would
+ </c>
+
+00:00:15.929 --> 00:00:16.939 align:start position:0%
+something divided by itself<c.colorE5E5E5> that would</c>
+<c.colorCCCCCC>just<00:00:16.139><c> be</c><00:00:16.230><c> equal</c></c><c.colorE5E5E5><00:00:16.379><c> to</c></c><c.colorCCCCCC><00:00:16.619><c> 1</c></c>
+
+00:00:16.939 --> 00:00:16.949 align:start position:0%
+<c.colorCCCCCC>just be equal</c><c.colorE5E5E5> to</c><c.colorCCCCCC> 1
+ </c>
+
+00:00:16.949 --> 00:00:18.890 align:start position:0%
+<c.colorCCCCCC>just be equal</c><c.colorE5E5E5> to</c><c.colorCCCCCC> 1
+can't<00:00:17.160><c> I</c><00:00:17.250><c> just</c><00:00:17.279><c> simplify</c><00:00:17.940><c> this</c><00:00:18.000><c> to</c><00:00:18.359><c> f</c><00:00:18.510><c> of</c><00:00:18.690><c> X</c></c>
+
+00:00:18.890 --> 00:00:18.900 align:start position:0%
+can't I just simplify this to f of X
+ 
+
+00:00:18.900 --> 00:00:20.840 align:start position:0%
+can't I just simplify this to f of X
+equals<00:00:19.350><c> 1</c><c.colorE5E5E5><00:00:19.560><c> and</c><00:00:19.740><c> I</c><00:00:19.800><c> would</c><00:00:19.920><c> say</c><00:00:20.039><c> well</c><00:00:20.250><c> you're</c></c>
+
+00:00:20.840 --> 00:00:20.850 align:start position:0%
+equals 1<c.colorE5E5E5> and I would say well you're
+ </c>
+
+00:00:20.850 --> 00:00:23.150 align:start position:0%
+equals 1<c.colorE5E5E5> and I would say well you're
+almost<00:00:21.119><c> true</c><00:00:21.840><c> the</c><00:00:22.080><c> difference</c><00:00:22.439><c> between</c><00:00:22.590><c> f</c><00:00:22.980><c> of</c></c>
+
+00:00:23.150 --> 00:00:23.160 align:start position:0%
+almost true the difference between<c.colorE5E5E5> f of
+ </c>
+
+00:00:23.160 --> 00:00:25.070 align:start position:0%
+almost true the difference between<c.colorE5E5E5> f of
+x<00:00:23.310><c> equals</c><00:00:23.699><c> 1</c></c><c.colorCCCCCC><00:00:23.760><c> and</c><00:00:24.150><c> this</c><00:00:24.600><c> thing</c></c><c.colorE5E5E5><00:00:24.840><c> right</c><00:00:25.050><c> over</c></c>
+
+00:00:25.070 --> 00:00:25.080 align:start position:0%
+x equals 1<c.colorCCCCCC> and this thing</c><c.colorE5E5E5> right over
+ </c>
+
+00:00:25.080 --> 00:00:27.529 align:start position:0%
+x equals 1<c.colorCCCCCC> and this thing</c><c.colorE5E5E5> right over</c>
+<c.colorCCCCCC>here<00:00:25.560><c> is</c><00:00:25.680><c> that</c><00:00:26.189><c> this</c><00:00:26.460><c> thing</c><00:00:26.760><c> can</c><00:00:27.000><c> never</c><00:00:27.240><c> eat</c></c>
+
+00:00:27.529 --> 00:00:27.539 align:start position:0%
+<c.colorCCCCCC>here is that this thing can never eat
+ </c>
+
+00:00:27.539 --> 00:00:30.320 align:start position:0%
+<c.colorCCCCCC>here is that this thing can never eat
+this<00:00:28.109><c> thing</c><00:00:28.170><c> is</c><00:00:28.500><c> undefined</c><00:00:29.250><c> when</c><00:00:29.550><c> x</c><00:00:29.970><c> is</c><00:00:30.179><c> equal</c></c>
+
+00:00:30.320 --> 00:00:30.330 align:start position:0%
+this<c.colorCCCCCC> thing is undefined when x is equal
+ </c>
+
+00:00:30.330 --> 00:00:33.380 align:start position:0%
+this<c.colorCCCCCC> thing is undefined when x is equal</c>
+<c.colorE5E5E5>to<00:00:30.539><c> 1</c><00:00:30.810><c> because</c><00:00:31.529><c> if</c><00:00:31.650><c> you</c><00:00:31.830><c> set</c><00:00:32.130><c> let</c><00:00:32.940><c> me</c><00:00:33.030><c> define</c><00:00:33.329><c> it</c></c>
+
+00:00:33.380 --> 00:00:33.390 align:start position:0%
+<c.colorE5E5E5>to 1 because if you set let me define it
+ </c>
+
+00:00:33.390 --> 00:00:34.580 align:start position:0%
+<c.colorE5E5E5>to 1 because if you set let me define it</c>
+<c.colorE5E5E5>right<00:00:33.630><c> let</c><00:00:33.750><c> me</c><00:00:33.809><c> write</c><00:00:33.989><c> it</c><00:00:34.020><c> over</c><00:00:34.170><c> here</c><00:00:34.320><c> if</c><00:00:34.530><c> you</c></c>
+
+00:00:34.580 --> 00:00:34.590 align:start position:0%
+<c.colorE5E5E5>right let me write it over here if you
+ </c>
+
+00:00:34.590 --> 00:00:37.880 align:start position:0%
+<c.colorE5E5E5>right let me write it over here if you
+have</c><c.colorCCCCCC><00:00:34.680><c> f</c></c><c.colorE5E5E5><00:00:34.920><c> of</c><00:00:35.480><c> sorry</c><00:00:36.480><c> not</c><00:00:36.690><c> F</c><00:00:36.840><c> of</c><00:00:37.020><c> 0</c><00:00:37.260><c> if</c><00:00:37.380><c> you</c><00:00:37.469><c> have</c><00:00:37.649><c> F</c></c>
+
+00:00:37.880 --> 00:00:37.890 align:start position:0%
+have<c.colorCCCCCC> f</c><c.colorE5E5E5> of sorry not F of 0 if you have F
+ </c>
+
+00:00:37.890 --> 00:00:40.430 align:start position:0%
+have<c.colorCCCCCC> f</c><c.colorE5E5E5> of sorry not F of 0 if you have F
+of<00:00:38.160><c> 1</c><00:00:38.640><c> what</c><00:00:39.360><c> happens</c><00:00:39.390><c> in</c><00:00:39.930><c> the</c></c><c.colorCCCCCC><00:00:40.020><c> numerator</c><00:00:40.410><c> you</c></c>
+
+00:00:40.430 --> 00:00:40.440 align:start position:0%
+of 1 what happens<c.colorE5E5E5> in the</c><c.colorCCCCCC> numerator you
+ </c>
+
+00:00:40.440 --> 00:00:43.610 align:start position:0%
+of 1 what happens<c.colorE5E5E5> in the</c><c.colorCCCCCC> numerator you
+get<00:00:40.680><c> 1</c><00:00:40.890><c> minus</c><00:00:41.280><c> 1</c><00:00:41.520><c> which</c><00:00:42.059><c> is</c><00:00:42.329><c> let</c></c><c.colorE5E5E5><00:00:43.170><c> me</c><00:00:43.230><c> just</c><00:00:43.410><c> write</c></c>
+
+00:00:43.610 --> 00:00:43.620 align:start position:0%
+get 1 minus 1 which<c.colorCCCCCC> is let</c><c.colorE5E5E5> me just write
+ </c>
+
+00:00:43.620 --> 00:00:45.560 align:start position:0%
+get 1 minus 1 which<c.colorCCCCCC> is let</c><c.colorE5E5E5> me just write</c>
+<c.colorCCCCCC>it<00:00:43.770><c> down</c></c><c.colorE5E5E5><00:00:43.800><c> in</c></c><c.colorCCCCCC><00:00:44.250><c> the</c></c><c.colorE5E5E5><00:00:44.399><c> numerator</c><00:00:44.760><c> you</c><00:00:44.850><c> get</c></c><c.colorCCCCCC><00:00:45.180><c> zero</c></c>
+
+00:00:45.560 --> 00:00:45.570 align:start position:0%
+<c.colorCCCCCC>it down</c><c.colorE5E5E5> in</c><c.colorCCCCCC> the</c><c.colorE5E5E5> numerator you get</c><c.colorCCCCCC> zero
+ </c>
+
+00:00:45.570 --> 00:00:48.260 align:start position:0%
+<c.colorCCCCCC>it down</c><c.colorE5E5E5> in</c><c.colorCCCCCC> the</c><c.colorE5E5E5> numerator you get</c><c.colorCCCCCC> zero</c>
+<c.colorE5E5E5>and<00:00:45.930><c> then</c><00:00:46.410><c> the</c><00:00:46.530><c> denominator</c></c><c.colorCCCCCC><00:00:46.680><c> you</c></c><c.colorE5E5E5><00:00:47.250><c> get</c><00:00:47.399><c> 1</c><00:00:47.670><c> minus</c></c>
+
+00:00:48.260 --> 00:00:48.270 align:start position:0%
+<c.colorE5E5E5>and then the denominator</c><c.colorCCCCCC> you</c><c.colorE5E5E5> get 1 minus
+ </c>
+
+00:00:48.270 --> 00:00:51.410 align:start position:0%
+<c.colorE5E5E5>and then the denominator</c><c.colorCCCCCC> you</c><c.colorE5E5E5> get 1 minus
+1<00:00:48.539><c> which</c></c><c.colorCCCCCC><00:00:48.930><c> is</c><00:00:49.140><c> also</c><00:00:49.219><c> 0</c></c><c.colorE5E5E5><00:00:50.219><c> and</c><00:00:50.489><c> so</c><00:00:51.059><c> anything</c></c>
+
+00:00:51.410 --> 00:00:51.420 align:start position:0%
+1 which<c.colorCCCCCC> is also 0</c><c.colorE5E5E5> and so anything
+ </c>
+
+00:00:51.420 --> 00:00:53.479 align:start position:0%
+1 which<c.colorCCCCCC> is also 0</c><c.colorE5E5E5> and so anything
+divided<00:00:51.930><c> by</c><00:00:51.960><c> 0</c><00:00:52.379><c> we're</c><00:00:52.530><c> including</c><00:00:52.860><c> 0</c><00:00:53.129><c> divided</c></c>
+
+00:00:53.479 --> 00:00:53.489 align:start position:0%
+divided by<c.colorE5E5E5> 0 we're including 0 divided
+ </c>
+
+00:00:53.489 --> 00:00:57.350 align:start position:0%
+divided by<c.colorE5E5E5> 0 we're including 0 divided
+by<00:00:53.520><c> 0</c><00:00:53.670><c> this</c><00:00:54.180><c> is</c><00:00:54.300><c> undefined</c></c><c.colorCCCCCC><00:00:55.100><c> this</c><00:00:56.100><c> is</c><00:00:56.460><c> undefined</c></c>
+
+00:00:57.350 --> 00:00:57.360 align:start position:0%
+by<c.colorE5E5E5> 0 this is undefined</c><c.colorCCCCCC> this is undefined
+ </c>
+
+00:00:57.360 --> 00:01:00.830 align:start position:0%
+by<c.colorE5E5E5> 0 this is undefined</c><c.colorCCCCCC> this is undefined</c>
+<c.colorCCCCCC>so<00:00:58.109><c> you</c><00:00:58.680><c> can</c><00:00:59.039><c> make</c><00:00:59.280><c> the</c><00:00:59.460><c> simplification</c><00:01:00.270><c> you</c></c>
+
+00:01:00.830 --> 00:01:00.840 align:start position:0%
+<c.colorCCCCCC>so you can make the simplification you
+ </c>
+
+00:01:00.840 --> 00:01:03.590 align:start position:0%
+<c.colorCCCCCC>so you can make the simplification you
+can<00:01:01.109><c> say</c><00:01:01.469><c> that</c><00:01:01.710><c> this</c></c><c.colorE5E5E5><00:01:01.859><c> is</c><00:01:02.000><c> you</c><00:01:03.000><c> can</c><00:01:03.239><c> say</c><00:01:03.449><c> that</c></c>
+
+00:01:03.590 --> 00:01:03.600 align:start position:0%
+can say that this<c.colorE5E5E5> is you can say that
+ </c>
+
+00:01:03.600 --> 00:01:05.660 align:start position:0%
+can say that this<c.colorE5E5E5> is you can say that
+this<00:01:03.690><c> is</c><00:01:03.840><c> the</c><00:01:03.960><c> same</c><00:01:04.170><c> thing</c><00:01:04.409><c> as</c><00:01:04.619><c> f</c><00:01:04.949><c> of</c><00:01:05.250><c> X</c><00:01:05.430><c> is</c></c>
+
+00:01:05.660 --> 00:01:05.670 align:start position:0%
+this<c.colorE5E5E5> is the same thing as f of X is
+ </c>
+
+00:01:05.670 --> 00:01:08.090 align:start position:0%
+this<c.colorE5E5E5> is the same thing as f of X is</c>
+<c.colorCCCCCC>equal<00:01:06.180><c> to</c></c><c.colorE5E5E5><00:01:06.210><c> 1</c><00:01:06.540><c> but</c><00:01:07.110><c> you</c><00:01:07.200><c> would</c><00:01:07.320><c> have</c></c><c.colorCCCCCC><00:01:07.350><c> to</c><00:01:07.500><c> add</c><00:01:07.770><c> the</c></c>
+
+00:01:08.090 --> 00:01:08.100 align:start position:0%
+<c.colorCCCCCC>equal to</c><c.colorE5E5E5> 1 but you would have</c><c.colorCCCCCC> to add the
+ </c>
+
+00:01:08.100 --> 00:01:11.690 align:start position:0%
+<c.colorCCCCCC>equal to</c><c.colorE5E5E5> 1 but you would have</c><c.colorCCCCCC> to add the</c>
+<c.colorE5E5E5>constraint<00:01:08.310><c> that</c><00:01:09.000><c> X</c><00:01:09.180><c> cannot</c><00:01:10.110><c> X</c><00:01:10.640><c> cannot</c><00:01:11.640><c> be</c></c>
+
+00:01:11.690 --> 00:01:11.700 align:start position:0%
+<c.colorE5E5E5>constraint that X cannot X cannot be
+ </c>
+
+00:01:11.700 --> 00:01:14.840 align:start position:0%
+<c.colorE5E5E5>constraint that X cannot X cannot be
+equal<00:01:12.270><c> to</c><00:01:12.869><c> 1</c></c><c.colorCCCCCC><00:01:13.080><c> now</c><00:01:13.320><c> this</c></c><c.colorE5E5E5><00:01:13.950><c> and</c><00:01:14.280><c> this</c><00:01:14.610><c> are</c></c>
+
+00:01:14.840 --> 00:01:14.850 align:start position:0%
+<c.colorE5E5E5>equal to 1</c><c.colorCCCCCC> now this</c><c.colorE5E5E5> and this are
+ </c>
+
+00:01:14.850 --> 00:01:16.520 align:start position:0%
+<c.colorE5E5E5>equal to 1</c><c.colorCCCCCC> now this</c><c.colorE5E5E5> and this are
+equivalent<00:01:15.330><c> both</c><00:01:15.540><c> of</c><00:01:15.780><c> these</c><00:01:15.869><c> are</c><00:01:16.170><c> going</c><00:01:16.290><c> to</c><00:01:16.380><c> be</c></c>
+
+00:01:16.520 --> 00:01:16.530 align:start position:0%
+equivalent both of these are going to<c.colorE5E5E5> be
+ </c>
+
+00:01:16.530 --> 00:01:19.550 align:start position:0%
+equivalent both of these are going to<c.colorE5E5E5> be
+equal</c><c.colorCCCCCC><00:01:16.890><c> to</c><00:01:17.040><c> 1</c></c><c.colorE5E5E5><00:01:17.250><c> for</c><00:01:17.850><c> all</c><00:01:17.880><c> other</c><00:01:18.390><c> X's</c><00:01:18.930><c> other</c><00:01:19.170><c> than</c></c>
+
+00:01:19.550 --> 00:01:19.560 align:start position:0%
+equal<c.colorCCCCCC> to 1</c><c.colorE5E5E5> for all other X's other than
+ </c>
+
+00:01:19.560 --> 00:01:22.850 align:start position:0%
+equal<c.colorCCCCCC> to 1</c><c.colorE5E5E5> for all other X's other than</c>
+<c.colorE5E5E5>1<00:01:19.770><c> but</c><00:01:20.280><c> at</c><00:01:20.520><c> x</c><00:01:20.880><c> equals</c><00:01:21.540><c> 1</c><00:01:21.869><c> it</c><00:01:22.110><c> becomes</c></c><c.colorCCCCCC><00:01:22.290><c> undefined</c></c>
+
+00:01:22.850 --> 00:01:22.860 align:start position:0%
+<c.colorE5E5E5>1 but at x equals 1 it becomes</c><c.colorCCCCCC> undefined
+ </c>
+
+00:01:22.860 --> 00:01:24.800 align:start position:0%
+<c.colorE5E5E5>1 but at x equals 1 it becomes</c><c.colorCCCCCC> undefined
+this<00:01:23.280><c> is</c></c><c.colorE5E5E5><00:01:23.430><c> undefined</c><00:01:23.880><c> and</c><00:01:24.150><c> this</c><00:01:24.570><c> one's</c></c>
+
+00:01:24.800 --> 00:01:24.810 align:start position:0%
+this is<c.colorE5E5E5> undefined and this one's
+ </c>
+
+00:01:24.810 --> 00:01:27.260 align:start position:0%
+this is<c.colorE5E5E5> undefined and this one's
+undefined<00:01:25.380><c> so</c><00:01:26.040><c> how</c><00:01:26.159><c> would</c></c><c.colorCCCCCC><00:01:26.220><c> i</c><00:01:26.369><c> graph</c><00:01:26.460><c> this</c></c>
+
+00:01:27.260 --> 00:01:27.270 align:start position:0%
+undefined<c.colorE5E5E5> so how would</c><c.colorCCCCCC> i graph this
+ </c>
+
+00:01:27.270 --> 00:01:32.300 align:start position:0%
+undefined<c.colorE5E5E5> so how would</c><c.colorCCCCCC> i graph this
+function</c><c.colorE5E5E5><00:01:27.829><c> so</c><00:01:28.829><c> let</c><00:01:28.979><c> me</c><00:01:29.159><c> graph</c><00:01:30.060><c> it</c></c><c.colorCCCCCC><00:01:30.240><c> so</c><00:01:31.009><c> that</c><00:01:32.009><c> is</c></c>
+
+00:01:32.300 --> 00:01:32.310 align:start position:0%
+function<c.colorE5E5E5> so let me graph it</c><c.colorCCCCCC> so that is
+ </c>
+
+00:01:32.310 --> 00:01:37.490 align:start position:0%
+function<c.colorE5E5E5> so let me graph it</c><c.colorCCCCCC> so that is
+my<00:01:32.729><c> y</c></c><c.colorE5E5E5><00:01:33.240><c> is</c><00:01:33.299><c> equal</c><00:01:33.990><c> to</c><00:01:34.020><c> f</c><00:01:34.380><c> of</c></c><c.colorCCCCCC><00:01:34.590><c> x</c><00:01:34.860><c> axis</c><00:01:35.659><c> y</c><00:01:36.659><c> is</c><00:01:36.720><c> equal</c></c>
+
+00:01:37.490 --> 00:01:37.500 align:start position:0%
+my<c.colorCCCCCC> y</c><c.colorE5E5E5> is equal to f of</c><c.colorCCCCCC> x axis y is equal
+ </c>
+
+00:01:37.500 --> 00:01:41.300 align:start position:0%
+my<c.colorCCCCCC> y</c><c.colorE5E5E5> is equal to f of</c><c.colorCCCCCC> x axis y is equal
+to</c><c.colorE5E5E5><00:01:37.530><c> f</c><00:01:37.890><c> of</c><00:01:38.070><c> x</c><00:01:38.280><c> axis</c><00:01:38.610><c> and</c><00:01:39.119><c> then</c><00:01:39.329><c> this</c><00:01:40.170><c> over</c></c><c.colorCCCCCC><00:01:40.740><c> here</c></c>
+
+00:01:41.300 --> 00:01:41.310 align:start position:0%
+to<c.colorE5E5E5> f of x axis and then this over</c><c.colorCCCCCC> here
+ </c>
+
+00:01:41.310 --> 00:01:47.480 align:start position:0%
+to<c.colorE5E5E5> f of x axis and then this over</c><c.colorCCCCCC> here
+is</c><c.colorE5E5E5><00:01:41.520><c> my</c><00:01:42.360><c> x</c><00:01:42.689><c> axis</c><00:01:43.399><c> x</c><00:01:44.420><c> axis</c><00:01:45.420><c> and</c><00:01:46.100><c> then</c><00:01:47.100><c> let's</c><00:01:47.369><c> say</c></c>
+
+00:01:47.480 --> 00:01:47.490 align:start position:0%
+is<c.colorE5E5E5> my x axis x axis and then let's say
+ </c>
+
+00:01:47.490 --> 00:01:49.760 align:start position:0%
+is<c.colorE5E5E5> my x axis x axis and then let's say
+that</c><c.colorCCCCCC><00:01:47.520><c> this</c><00:01:47.729><c> is</c><00:01:47.790><c> the</c><00:01:48.030><c> point</c><00:01:48.299><c> X</c><00:01:48.509><c> is</c><00:01:48.780><c> equal</c><00:01:49.079><c> to</c></c><c.colorE5E5E5><00:01:49.110><c> 1</c></c>
+
+00:01:49.760 --> 00:01:49.770 align:start position:0%
+that<c.colorCCCCCC> this is the point X is equal to</c><c.colorE5E5E5> 1
+ </c>
+
+00:01:49.770 --> 00:01:53.210 align:start position:0%
+that<c.colorCCCCCC> this is the point X is equal to</c><c.colorE5E5E5> 1
+this<00:01:50.250><c> over</c><00:01:50.640><c> here</c><00:01:50.909><c> would</c><00:01:51.060><c> be</c><00:01:51.090><c> X</c><00:01:51.390><c> is</c><00:01:51.630><c> equal</c></c><c.colorCCCCCC><00:01:52.049><c> to</c></c><c.colorE5E5E5><00:01:52.290><c> X</c></c>
+
+00:01:53.210 --> 00:01:53.220 align:start position:0%
+<c.colorE5E5E5>this over here would be X is equal</c><c.colorCCCCCC> to</c><c.colorE5E5E5> X
+ </c>
+
+00:01:53.220 --> 00:01:56.240 align:start position:0%
+<c.colorE5E5E5>this over here would be X is equal</c><c.colorCCCCCC> to</c><c.colorE5E5E5> X
+is</c><c.colorCCCCCC><00:01:53.520><c> equal</c><00:01:53.880><c> to</c></c><c.colorE5E5E5><00:01:53.909><c> negative</c><00:01:54.390><c> 1</c><00:01:54.930><c> this</c><00:01:55.619><c> is</c><00:01:55.860><c> y</c><00:01:56.189><c> is</c></c>
+
+00:01:56.240 --> 00:01:56.250 align:start position:0%
+is<c.colorCCCCCC> equal to</c><c.colorE5E5E5> negative 1 this is y is
+ </c>
+
+00:01:56.250 --> 00:01:58.969 align:start position:0%
+is<c.colorCCCCCC> equal to</c><c.colorE5E5E5> negative 1 this is y is</c>
+<c.colorCCCCCC>equal<00:01:56.939><c> to</c><00:01:56.969><c> 1</c><00:01:57.869><c> right</c></c><c.colorE5E5E5><00:01:58.290><c> up</c><00:01:58.439><c> there</c><00:01:58.590><c> I</c><00:01:58.619><c> could</c><00:01:58.890><c> do</c></c>
+
+00:01:58.969 --> 00:01:58.979 align:start position:0%
+<c.colorCCCCCC>equal to 1 right</c><c.colorE5E5E5> up there I could do
+ </c>
+
+00:01:58.979 --> 00:02:00.469 align:start position:0%
+<c.colorCCCCCC>equal to 1 right</c><c.colorE5E5E5> up there I could do
+negative</c><c.colorCCCCCC><00:01:59.189><c> 1</c><00:01:59.490><c> with</c><00:01:59.640><c> that</c><00:01:59.729><c> matter</c><00:02:00.240><c> much</c></c>
+
+00:02:00.469 --> 00:02:00.479 align:start position:0%
+negative<c.colorCCCCCC> 1 with that matter much
+ </c>
+
+00:02:00.479 --> 00:02:02.179 align:start position:0%
+negative<c.colorCCCCCC> 1 with that matter much
+relative<00:02:00.810><c> to</c></c><c.colorE5E5E5><00:02:00.930><c> this</c><00:02:01.170><c> function</c></c><c.colorCCCCCC><00:02:01.890><c> right</c><00:02:02.130><c> over</c></c>
+
+00:02:02.179 --> 00:02:02.189 align:start position:0%
+relative<c.colorCCCCCC> to</c><c.colorE5E5E5> this function</c><c.colorCCCCCC> right over
+ </c>
+
+00:02:02.189 --> 00:02:04.219 align:start position:0%
+relative<c.colorCCCCCC> to</c><c.colorE5E5E5> this function</c><c.colorCCCCCC> right over</c>
+<c.colorE5E5E5>here<00:02:02.520><c> and</c><00:02:02.640><c> let</c><00:02:02.729><c> me</c><00:02:02.759><c> graph</c><00:02:03.180><c> it</c><00:02:03.360><c> so</c></c><c.colorCCCCCC><00:02:03.570><c> it's</c></c>
+
+00:02:04.219 --> 00:02:04.229 align:start position:0%
+<c.colorE5E5E5>here and let me graph it so</c><c.colorCCCCCC> it's
+ </c>
+
+00:02:04.229 --> 00:02:06.950 align:start position:0%
+<c.colorE5E5E5>here and let me graph it so</c><c.colorCCCCCC> it's
+essentially<00:02:04.740><c> for</c><00:02:05.130><c> any</c><00:02:05.340><c> X's</c><00:02:05.939><c> for</c><00:02:06.270><c> any</c></c><c.colorE5E5E5><00:02:06.420><c> X</c><00:02:06.659><c> other</c></c>
+
+00:02:06.950 --> 00:02:06.960 align:start position:0%
+essentially for any X's for any<c.colorE5E5E5> X other
+ </c>
+
+00:02:06.960 --> 00:02:09.949 align:start position:0%
+essentially for any X's for any<c.colorE5E5E5> X other
+than</c><c.colorCCCCCC><00:02:07.380><c> 1</c></c><c.colorE5E5E5><00:02:07.649><c> f</c><00:02:07.890><c> of</c><00:02:08.459><c> X</c><00:02:08.640><c> is</c><00:02:08.789><c> going</c><00:02:08.910><c> to</c><00:02:09.030><c> be</c><00:02:09.179><c> equal</c></c><c.colorCCCCCC><00:02:09.599><c> to</c><00:02:09.750><c> 1</c></c>
+
+00:02:09.949 --> 00:02:09.959 align:start position:0%
+than<c.colorCCCCCC> 1</c><c.colorE5E5E5> f of X is going to be equal</c><c.colorCCCCCC> to 1
+ </c>
+
+00:02:09.959 --> 00:02:12.710 align:start position:0%
+than<c.colorCCCCCC> 1</c><c.colorE5E5E5> f of X is going to be equal</c><c.colorCCCCCC> to 1</c>
+<c.colorE5E5E5>so</c><c.colorCCCCCC><00:02:10.200><c> it's</c></c><c.colorE5E5E5><00:02:10.920><c> going</c><00:02:11.129><c> to</c><00:02:11.220><c> be</c><00:02:11.400><c> look</c></c><c.colorCCCCCC><00:02:11.580><c> like</c><00:02:11.790><c> this</c></c><c.colorE5E5E5><00:02:12.120><c> it's</c></c>
+
+00:02:12.710 --> 00:02:12.720 align:start position:0%
+<c.colorE5E5E5>so</c><c.colorCCCCCC> it's</c><c.colorE5E5E5> going to be look</c><c.colorCCCCCC> like this</c><c.colorE5E5E5> it's
+ </c>
+
+00:02:12.720 --> 00:02:17.570 align:start position:0%
+<c.colorE5E5E5>so</c><c.colorCCCCCC> it's</c><c.colorE5E5E5> going to be look</c><c.colorCCCCCC> like this</c><c.colorE5E5E5> it's
+going<00:02:12.930><c> to</c><00:02:13.080><c> look</c><00:02:13.260><c> like</c><00:02:13.620><c> this</c><00:02:15.470><c> except</c><00:02:16.470><c> at</c></c><c.colorCCCCCC><00:02:16.740><c> one</c><00:02:17.310><c> at</c></c>
+
+00:02:17.570 --> 00:02:17.580 align:start position:0%
+going to look<c.colorE5E5E5> like this except at</c><c.colorCCCCCC> one at
+ </c>
+
+00:02:17.580 --> 00:02:19.940 align:start position:0%
+going to look<c.colorE5E5E5> like this except at</c><c.colorCCCCCC> one at</c>
+<c.colorCCCCCC>one<00:02:17.880><c> f</c><00:02:18.180><c> of</c></c><c.colorE5E5E5><00:02:18.360><c> X</c><00:02:18.540><c> is</c><00:02:18.690><c> undefined</c><00:02:18.870><c> so</c><00:02:19.560><c> I'm</c><00:02:19.680><c> going</c></c><c.colorCCCCCC><00:02:19.860><c> to</c></c>
+
+00:02:19.940 --> 00:02:19.950 align:start position:0%
+<c.colorCCCCCC>one f of</c><c.colorE5E5E5> X is undefined so I'm going</c><c.colorCCCCCC> to
+ </c>
+
+00:02:19.950 --> 00:02:21.980 align:start position:0%
+<c.colorCCCCCC>one f of</c><c.colorE5E5E5> X is undefined so I'm going</c><c.colorCCCCCC> to
+put<00:02:20.100><c> a</c><00:02:20.130><c> little</c></c><c.colorE5E5E5><00:02:20.400><c> bit</c><00:02:20.640><c> of</c><00:02:20.880><c> a</c><00:02:21.030><c> gap</c><00:02:21.330><c> right</c></c><c.colorCCCCCC><00:02:21.360><c> over</c></c>
+
+00:02:21.980 --> 00:02:21.990 align:start position:0%
+put a little<c.colorE5E5E5> bit of a gap right</c><c.colorCCCCCC> over
+ </c>
+
+00:02:21.990 --> 00:02:25.820 align:start position:0%
+put a little<c.colorE5E5E5> bit of a gap right</c><c.colorCCCCCC> over
+here</c><c.colorE5E5E5><00:02:22.230><c> the</c><00:02:22.650><c> circle</c><00:02:23.190><c> to</c><00:02:23.430><c> signify</c></c>
+

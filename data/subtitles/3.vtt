@@ -1,0 +1,334 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.000 --> 00:00:01.429 align:start position:0%
+ 
+it's<00:00:00.120><c> a</c><00:00:00.210><c> series</c><00:00:00.570><c> well</c><00:00:00.750><c> it's</c><00:00:01.140><c> often</c>
+
+00:00:01.429 --> 00:00:01.439 align:start position:0%
+it's a series well it's often
+ 
+
+00:00:01.439 --> 00:00:03.649 align:start position:0%
+it's a series well it's often
+representative<00:00:01.890><c> just</c><c.colorE5E5E5><00:00:02.040><c> a</c><00:00:02.159><c> sum</c><00:00:02.610><c> of</c><00:00:02.639><c> sequences</c><00:00:03.389><c> a</c></c>
+
+00:00:03.649 --> 00:00:03.659 align:start position:0%
+representative just<c.colorE5E5E5> a sum of sequences a
+ </c>
+
+00:00:03.659 --> 00:00:06.670 align:start position:0%
+representative just<c.colorE5E5E5> a sum of sequences a
+sum<00:00:04.140><c> of</c><00:00:04.170><c> a</c><00:00:04.529><c> sequence</c></c><c.colorCCCCCC><00:00:04.770><c> so</c><00:00:05.310><c> for</c></c><c.colorE5E5E5><00:00:05.940><c> example</c><00:00:06.390><c> the</c></c>
+
+00:00:06.670 --> 00:00:06.680 align:start position:0%
+sum of<c.colorE5E5E5> a sequence</c><c.colorCCCCCC> so for</c><c.colorE5E5E5> example the
+ </c>
+
+00:00:06.680 --> 00:00:09.410 align:start position:0%
+sum of<c.colorE5E5E5> a sequence</c><c.colorCCCCCC> so for</c><c.colorE5E5E5> example the
+arithmetic<00:00:07.680><c> sequence</c></c><c.colorCCCCCC><00:00:08.189><c> sorry</c><00:00:08.820><c> the</c><00:00:08.970><c> arithmetic</c></c>
+
+00:00:09.410 --> 00:00:09.420 align:start position:0%
+arithmetic sequence<c.colorCCCCCC> sorry the arithmetic
+ </c>
+
+00:00:09.420 --> 00:00:11.890 align:start position:0%
+arithmetic sequence<c.colorCCCCCC> sorry the arithmetic</c>
+<c.colorCCCCCC>series<00:00:09.870><c> is</c><00:00:10.110><c> just</c><00:00:10.139><c> the</c><00:00:10.590><c> sum</c><00:00:10.830><c> of</c><00:00:10.860><c> the</c><00:00:11.340><c> arithmetic</c></c>
+
+00:00:11.890 --> 00:00:11.900 align:start position:0%
+<c.colorCCCCCC>series is just the sum of the arithmetic
+ </c>
+
+00:00:11.900 --> 00:00:16.369 align:start position:0%
+<c.colorCCCCCC>series is just the sum of the arithmetic
+sequence<00:00:12.900><c> so</c></c><c.colorE5E5E5><00:00:13.309><c> one</c><00:00:14.309><c> plus</c><00:00:14.940><c> two</c><00:00:15.299><c> plus</c></c><c.colorCCCCCC><00:00:15.599><c> three</c><00:00:15.870><c> plus</c></c>
+
+00:00:16.369 --> 00:00:16.379 align:start position:0%
+sequence<c.colorCCCCCC> so</c><c.colorE5E5E5> one plus two plus</c><c.colorCCCCCC> three plus
+ </c>
+
+00:00:16.379 --> 00:00:18.920 align:start position:0%
+sequence<c.colorCCCCCC> so</c><c.colorE5E5E5> one plus two plus</c><c.colorCCCCCC> three plus</c>
+<c.colorCCCCCC>we</c><c.colorE5E5E5><00:00:17.039><c> could</c><00:00:17.190><c> keep</c></c><c.colorCCCCCC><00:00:17.340><c> going</c><00:00:17.730><c> until</c><00:00:17.910><c> maybe</c><00:00:18.570><c> some</c></c>
+
+00:00:18.920 --> 00:00:18.930 align:start position:0%
+<c.colorCCCCCC>we</c><c.colorE5E5E5> could keep</c><c.colorCCCCCC> going until maybe some
+ </c>
+
+00:00:18.930 --> 00:00:22.070 align:start position:0%
+<c.colorCCCCCC>we</c><c.colorE5E5E5> could keep</c><c.colorCCCCCC> going until maybe some
+number</c><c.colorE5E5E5><00:00:19.260><c> this</c><00:00:19.680><c> is</c><00:00:19.740><c> called</c><00:00:20.130><c> the</c></c><c.colorCCCCCC><00:00:21.080><c> arithmetic</c></c>
+
+00:00:22.070 --> 00:00:22.080 align:start position:0%
+number<c.colorE5E5E5> this is called the</c><c.colorCCCCCC> arithmetic
+ </c>
+
+00:00:22.080 --> 00:00:36.200 align:start position:0%
+number<c.colorE5E5E5> this is called the</c><c.colorCCCCCC> arithmetic
+series<00:00:22.550><c> or</c><00:00:23.550><c> if</c><00:00:25.250><c> motiki's</c><00:00:26.840><c> dog</c><00:00:34.160><c> and</c><00:00:35.160><c> the</c><00:00:35.820><c> sums</c></c>
+
+00:00:36.200 --> 00:00:36.210 align:start position:0%
+series<c.colorCCCCCC> or if motiki's dog and the sums
+ </c>
+
+00:00:36.210 --> 00:00:37.970 align:start position:0%
+series<c.colorCCCCCC> or if motiki's dog and the sums
+without<00:00:36.630><c> necessarily</c><00:00:37.140><c> having</c><00:00:37.530><c> to</c></c><c.colorE5E5E5><00:00:37.649><c> write</c><00:00:37.950><c> out</c></c>
+
+00:00:37.970 --> 00:00:37.980 align:start position:0%
+without necessarily<c.colorCCCCCC> having to</c><c.colorE5E5E5> write out
+ </c>
+
+00:00:37.980 --> 00:00:39.860 align:start position:0%
+without necessarily<c.colorCCCCCC> having to</c><c.colorE5E5E5> write out</c>
+<c.colorCCCCCC>all<00:00:38.340><c> of</c><00:00:38.370><c> the</c><00:00:38.579><c> digits</c><00:00:38.910><c> or</c><00:00:39.090><c> having</c><00:00:39.510><c> to</c><00:00:39.600><c> keep</c></c><c.colorE5E5E5><00:00:39.750><c> you</c></c>
+
+00:00:39.860 --> 00:00:39.870 align:start position:0%
+<c.colorCCCCCC>all of the digits or having to keep</c><c.colorE5E5E5> you
+ </c>
+
+00:00:39.870 --> 00:00:41.530 align:start position:0%
+<c.colorCCCCCC>all of the digits or having to keep</c><c.colorE5E5E5> you
+know</c><c.colorCCCCCC><00:00:39.989><c> doing</c><00:00:40.170><c> this</c><00:00:40.260><c> dot</c><00:00:40.500><c> dot</c><00:00:40.530><c> dot</c><00:00:40.950><c> plus</c></c>
+
+00:00:41.530 --> 00:00:41.540 align:start position:0%
+know<c.colorCCCCCC> doing this dot dot dot plus
+ </c>
+
+00:00:41.540 --> 00:00:44.420 align:start position:0%
+know<c.colorCCCCCC> doing this dot dot dot plus
+notation</c><c.colorE5E5E5><00:00:42.540><c> and</c><00:00:42.719><c> that's</c><00:00:42.840><c> and</c><00:00:43.140><c> that</c></c><c.colorCCCCCC><00:00:43.170><c> notation</c></c><c.colorE5E5E5><00:00:43.980><c> is</c></c>
+
+00:00:44.420 --> 00:00:44.430 align:start position:0%
+notation<c.colorE5E5E5> and that's and that</c><c.colorCCCCCC> notation</c><c.colorE5E5E5> is
+ </c>
+
+00:00:44.430 --> 00:00:50.860 align:start position:0%
+notation<c.colorE5E5E5> and that's and that</c><c.colorCCCCCC> notation</c><c.colorE5E5E5> is
+Sigma<00:00:45.329><c> notation</c><00:00:46.820><c> Sigma</c><00:00:48.590><c> that's</c><00:00:49.590><c> an</c></c><c.colorCCCCCC><00:00:49.739><c> uppercase</c></c>
+
+00:00:50.860 --> 00:00:50.870 align:start position:0%
+Sigma notation Sigma that's an<c.colorCCCCCC> uppercase
+ </c>
+
+00:00:50.870 --> 00:00:54.170 align:start position:0%
+Sigma notation Sigma that's an<c.colorCCCCCC> uppercase
+Sigma<00:00:51.870><c> and</c><00:00:52.489><c> how</c><00:00:53.489><c> do</c><00:00:53.550><c> you</c></c><c.colorE5E5E5><00:00:53.699><c> use</c><00:00:53.789><c> Sigma</c><00:00:54.059><c> notation</c></c>
+
+00:00:54.170 --> 00:00:54.180 align:start position:0%
+Sigma and how<c.colorCCCCCC> do you</c><c.colorE5E5E5> use Sigma notation
+ </c>
+
+00:00:54.180 --> 00:00:55.250 align:start position:0%
+Sigma and how<c.colorCCCCCC> do you</c><c.colorE5E5E5> use Sigma notation
+well<00:00:54.539><c> let's</c><00:00:54.780><c> say</c><00:00:54.840><c> I</c></c><c.colorCCCCCC><00:00:54.899><c> wanted</c><00:00:55.110><c> to</c><00:00:55.170><c> represent</c></c>
+
+00:00:55.250 --> 00:00:55.260 align:start position:0%
+well let's say I<c.colorCCCCCC> wanted to represent
+ </c>
+
+00:00:55.260 --> 00:00:58.010 align:start position:0%
+well let's say I<c.colorCCCCCC> wanted to represent
+this<00:00:55.620><c> arithmetic</c></c><c.colorE5E5E5><00:00:55.890><c> series</c><00:00:56.399><c> so</c><00:00:57.329><c> I</c><00:00:57.629><c> would</c><00:00:57.840><c> say</c></c>
+
+00:00:58.010 --> 00:00:58.020 align:start position:0%
+<c.colorCCCCCC>this arithmetic</c><c.colorE5E5E5> series so I would say
+ </c>
+
+00:00:58.020 --> 00:01:00.020 align:start position:0%
+<c.colorCCCCCC>this arithmetic</c><c.colorE5E5E5> series so I would say
+well</c><c.colorCCCCCC><00:00:58.199><c> let's</c><00:00:58.350><c> add</c><00:00:58.500><c> up</c><00:00:58.649><c> a</c><00:00:58.800><c> bunch</c><00:00:58.859><c> of</c><00:00:59.280><c> let's</c></c><c.colorE5E5E5><00:00:59.850><c> call</c></c>
+
+00:01:00.020 --> 00:01:00.030 align:start position:0%
+well<c.colorCCCCCC> let's add up a bunch of let's</c><c.colorE5E5E5> call
+ </c>
+
+00:01:00.030 --> 00:01:01.610 align:start position:0%
+well<c.colorCCCCCC> let's add up a bunch of let's</c><c.colorE5E5E5> call
+them</c><c.colorCCCCCC><00:01:00.120><c> Ches</c><00:01:00.449><c> and</c></c><c.colorE5E5E5><00:01:00.780><c> this</c><00:01:01.230><c> is</c><00:01:01.379><c> an</c><00:01:01.469><c> arbitrary</c></c>
+
+00:01:01.610 --> 00:01:01.620 align:start position:0%
+them<c.colorCCCCCC> Ches and</c><c.colorE5E5E5> this is an arbitrary
+ </c>
+
+00:01:01.620 --> 00:01:04.780 align:start position:0%
+them<c.colorCCCCCC> Ches and</c><c.colorE5E5E5> this is an arbitrary</c>
+<c.colorE5E5E5>variable<00:01:02.430><c> and</c><00:01:02.579><c> we'll</c><00:01:03.300><c> start</c><00:01:03.570><c> at</c><00:01:03.690><c> K</c><00:01:03.870><c> equals</c></c><c.colorCCCCCC><00:01:03.899><c> one</c></c>
+
+00:01:04.780 --> 00:01:04.790 align:start position:0%
+<c.colorE5E5E5>variable and we'll start at K equals</c><c.colorCCCCCC> one
+ </c>
+
+00:01:04.790 --> 00:01:07.700 align:start position:0%
+<c.colorE5E5E5>variable and we'll start at K equals</c><c.colorCCCCCC> one
+we'll<00:01:05.790><c> start</c></c><c.colorE5E5E5><00:01:06.030><c> at</c><00:01:06.150><c> K</c><00:01:06.330><c> equals</c></c><c.colorCCCCCC><00:01:06.360><c> one</c><00:01:06.840><c> and</c><00:01:07.080><c> we'll</c><00:01:07.560><c> go</c></c>
+
+00:01:07.700 --> 00:01:07.710 align:start position:0%
+<c.colorCCCCCC>we'll start</c><c.colorE5E5E5> at K equals</c><c.colorCCCCCC> one and we'll go
+ </c>
+
+00:01:07.710 --> 00:01:11.840 align:start position:0%
+<c.colorCCCCCC>we'll start</c><c.colorE5E5E5> at K equals</c><c.colorCCCCCC> one and we'll go
+to<00:01:07.770><c> K</c><00:01:08.340><c> is</c><00:01:08.610><c> equal</c></c><c.colorE5E5E5><00:01:08.970><c> to</c><00:01:09.200><c> big</c><00:01:10.200><c> n</c><00:01:10.380><c> and</c><00:01:10.650><c> this</c><00:01:11.430><c> is</c><00:01:11.670><c> the</c></c>
+
+00:01:11.840 --> 00:01:11.850 align:start position:0%
+to K is equal<c.colorE5E5E5> to big n and this is the
+ </c>
+
+00:01:11.850 --> 00:01:13.700 align:start position:0%
+to K is equal<c.colorE5E5E5> to big n and this is the
+exact<00:01:12.119><c> same</c><00:01:12.299><c> thing</c></c><c.colorCCCCCC><00:01:12.360><c> so</c></c><c.colorE5E5E5><00:01:12.689><c> we</c><00:01:12.780><c> first</c><00:01:13.020><c> say</c><00:01:13.200><c> make</c><00:01:13.470><c> k</c></c>
+
+00:01:13.700 --> 00:01:13.710 align:start position:0%
+exact same thing<c.colorCCCCCC> so</c><c.colorE5E5E5> we first say make k
+ </c>
+
+00:01:13.710 --> 00:01:15.859 align:start position:0%
+exact same thing<c.colorCCCCCC> so</c><c.colorE5E5E5> we first say make k
+equal<00:01:13.920><c> to</c></c><c.colorCCCCCC><00:01:14.010><c> one</c><00:01:14.220><c> and</c><00:01:14.460><c> then</c></c><c.colorE5E5E5><00:01:14.939><c> we</c><00:01:15.060><c> add</c><00:01:15.210><c> it</c><00:01:15.420><c> to</c></c><c.colorCCCCCC><00:01:15.450><c> k</c><00:01:15.750><c> is</c></c>
+
+00:01:15.859 --> 00:01:15.869 align:start position:0%
+equal to<c.colorCCCCCC> one and then</c><c.colorE5E5E5> we add it to</c><c.colorCCCCCC> k is
+ </c>
+
+00:01:15.869 --> 00:01:18.410 align:start position:0%
+equal to<c.colorCCCCCC> one and then</c><c.colorE5E5E5> we add it to</c><c.colorCCCCCC> k is
+equal<00:01:15.930><c> to</c></c><c.colorE5E5E5><00:01:16.170><c> two</c><00:01:16.470><c> plus</c><00:01:17.369><c> three</c></c><c.colorCCCCCC><00:01:17.430><c> and</c><00:01:17.790><c> we</c><00:01:18.090><c> go</c><00:01:18.210><c> all</c></c>
+
+00:01:18.410 --> 00:01:18.420 align:start position:0%
+equal<c.colorCCCCCC> to</c><c.colorE5E5E5> two plus three</c><c.colorCCCCCC> and we go all
+ </c>
+
+00:01:18.420 --> 00:01:24.859 align:start position:0%
+equal<c.colorCCCCCC> to</c><c.colorE5E5E5> two plus three</c><c.colorCCCCCC> and we go all
+the<00:01:18.600><c> way</c><00:01:18.750><c> until</c><00:01:19.049><c> n</c><00:01:20.509><c> minus</c><00:01:21.509><c> 1</c></c><c.colorE5E5E5><00:01:21.750><c> and</c><00:01:22.189><c> plus</c><00:01:23.189><c> n</c><00:01:23.869><c> so</c></c>
+
+00:01:24.859 --> 00:01:24.869 align:start position:0%
+<c.colorCCCCCC>the way until n minus 1</c><c.colorE5E5E5> and plus n so
+ </c>
+
+00:01:24.869 --> 00:01:27.910 align:start position:0%
+<c.colorCCCCCC>the way until n minus 1</c><c.colorE5E5E5> and plus n so</c>
+<c.colorE5E5E5>this<00:01:25.049><c> is</c><00:01:25.350><c> a</c><00:01:25.619><c> the</c><00:01:26.460><c> Sigma</c><00:01:26.850><c> notation</c><00:01:27.000><c> for</c><00:01:27.720><c> the</c></c>
+
+00:01:27.910 --> 00:01:27.920 align:start position:0%
+<c.colorE5E5E5>this is a the Sigma notation for the
+ </c>
+
+00:01:27.920 --> 00:01:32.539 align:start position:0%
+<c.colorE5E5E5>this is a the Sigma notation for the
+arithmetic<00:01:28.920><c> series</c><00:01:31.189><c> before</c><00:01:32.189><c> I</c><00:01:32.220><c> move</c><00:01:32.430><c> on</c><00:01:32.520><c> I</c></c>
+
+00:01:32.539 --> 00:01:32.549 align:start position:0%
+arithmetic series before I move on I
+ 
+
+00:01:32.549 --> 00:01:33.580 align:start position:0%
+arithmetic series before I move on I
+think<c.colorE5E5E5><00:01:32.700><c> this</c><00:01:32.880><c> is</c><00:01:32.939><c> a</c><00:01:32.970><c> good</c><00:01:33.119><c> time</c><00:01:33.270><c> just</c><00:01:33.299><c> to</c><00:01:33.509><c> like</c></c>
+
+00:01:33.580 --> 00:01:33.590 align:start position:0%
+think<c.colorE5E5E5> this is a good time just to like
+ </c>
+
+00:01:33.590 --> 00:01:35.649 align:start position:0%
+think<c.colorE5E5E5> this is a good time just to like
+learn<00:01:34.590><c> a</c><00:01:34.619><c> little</c><00:01:35.040><c> bit</c><00:01:35.100><c> more</c><00:01:35.280><c> about</c><00:01:35.400><c> their</c></c>
+
+00:01:35.649 --> 00:01:35.659 align:start position:0%
+learn a little bit<c.colorE5E5E5> more about their
+ </c>
+
+00:01:35.659 --> 00:01:37.520 align:start position:0%
+learn a little bit<c.colorE5E5E5> more about their</c>
+<c.colorE5E5E5>arithmetic<00:01:36.659><c> series</c><00:01:36.780><c> well</c></c><c.colorCCCCCC><00:01:36.960><c> actually</c></c><c.colorE5E5E5><00:01:37.049><c> focus</c><00:01:37.409><c> on</c></c>
+
+00:01:37.520 --> 00:01:37.530 align:start position:0%
+<c.colorE5E5E5>arithmetic series well</c><c.colorCCCCCC> actually</c><c.colorE5E5E5> focus on
+ </c>
+
+00:01:37.530 --> 00:01:39.980 align:start position:0%
+<c.colorE5E5E5>arithmetic series well</c><c.colorCCCCCC> actually</c><c.colorE5E5E5> focus on
+this<00:01:37.680><c> one</c><00:01:37.920><c> and</c><00:01:38.579><c> the</c><00:01:39.270><c> geometric</c><00:01:39.810><c> series</c></c>
+
+00:01:39.980 --> 00:01:39.990 align:start position:0%
+this one and the geometric series
+ 
+
+00:01:39.990 --> 00:01:41.210 align:start position:0%
+this one and the geometric series
+because<00:01:40.380><c> those</c><00:01:40.530><c> are</c><00:01:40.680><c> the</c><c.colorE5E5E5><00:01:40.710><c> two</c><00:01:40.920><c> that</c><00:01:41.070><c> you'll</c></c>
+
+00:01:41.210 --> 00:01:41.220 align:start position:0%
+because those are the<c.colorE5E5E5> two that you'll
+ </c>
+
+00:01:41.220 --> 00:01:43.550 align:start position:0%
+because those are the<c.colorE5E5E5> two that you'll
+you'll<00:01:41.520><c> see</c><00:01:41.759><c> most</c><00:01:42.329><c> often</c><00:01:42.540><c> and</c><00:01:42.840><c> then</c><00:01:42.930><c> once</c><00:01:43.470><c> you</c></c>
+
+00:01:43.550 --> 00:01:43.560 align:start position:0%
+you'll see<c.colorE5E5E5> most often and then once you
+ </c>
+
+00:01:43.560 --> 00:01:45.139 align:start position:0%
+you'll see<c.colorE5E5E5> most often and then once you
+learn<00:01:43.710><c> calculus</c><00:01:43.979><c> I'll</c><00:01:44.340><c> show</c><00:01:44.490><c> you</c><00:01:44.549><c> the</c><00:01:44.880><c> the</c></c>
+
+00:01:45.139 --> 00:01:45.149 align:start position:0%
+learn calculus I'll show you the the
+ 
+
+00:01:45.149 --> 00:01:47.060 align:start position:0%
+learn calculus I'll show you the the
+power<c.colorE5E5E5><00:01:45.390><c> and</c><00:01:45.810><c> Taylor's</c><00:01:46.500><c> here</c><00:01:46.619><c> which</c><00:01:46.860><c> is</c><00:01:46.950><c> the</c></c>
+
+00:01:47.060 --> 00:01:47.070 align:start position:0%
+power<c.colorE5E5E5> and Taylor's here which is the
+ </c>
+
+00:01:47.070 --> 00:01:49.160 align:start position:0%
+power<c.colorE5E5E5> and Taylor's here which is the
+exact<00:01:47.310><c> Taylor</c><00:01:47.729><c> series</c><00:01:47.909><c> is</c><00:01:48.149><c> a</c><00:01:48.180><c> specific</c></c>
+
+00:01:49.160 --> 00:01:49.170 align:start position:0%
+<c.colorE5E5E5>exact Taylor series is a specific
+ </c>
+
+00:01:49.170 --> 00:01:52.310 align:start position:0%
+<c.colorE5E5E5>exact Taylor series is a specific
+version<00:01:49.920><c> of</c><00:01:49.950><c> a</c><00:01:50.250><c> power</c><00:01:50.430><c> series</c></c><c.colorCCCCCC><00:01:50.729><c> but</c><00:01:51.570><c> let's</c><00:01:52.200><c> play</c></c>
+
+00:01:52.310 --> 00:01:52.320 align:start position:0%
+<c.colorE5E5E5>version of a power series</c><c.colorCCCCCC> but let's play
+ </c>
+
+00:01:52.320 --> 00:01:54.649 align:start position:0%
+<c.colorE5E5E5>version of a power series</c><c.colorCCCCCC> but let's play</c>
+<c.colorE5E5E5>around<00:01:52.470><c> with</c><00:01:52.770><c> this</c><00:01:52.979><c> over</c><00:01:53.640><c> I</c><00:01:53.939><c> keep</c><00:01:54.390><c> wanting</c><00:01:54.600><c> to</c></c>
+
+00:01:54.649 --> 00:01:54.659 align:start position:0%
+<c.colorE5E5E5>around with this over I keep wanting to
+ </c>
+
+00:01:54.659 --> 00:01:56.630 align:start position:0%
+<c.colorE5E5E5>around with this over I keep wanting to</c>
+<c.colorE5E5E5>say<00:01:54.810><c> arithmetic</c><00:01:55.110><c> put</c><00:01:55.680><c> arithmetic</c><00:01:56.189><c> either</c><00:01:56.430><c> way</c></c>
+
+00:01:56.630 --> 00:01:56.640 align:start position:0%
+<c.colorE5E5E5>say arithmetic put arithmetic either way
+ </c>
+
+00:01:56.640 --> 00:01:59.420 align:start position:0%
+<c.colorE5E5E5>say arithmetic put arithmetic either way</c>
+<c.colorE5E5E5>series</c>
+
