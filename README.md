@@ -5,4 +5,4 @@ Detecting confusion of students while watching lecture videos
 
 ## Data
 
-The data is from kaggle competition https://www.kaggle.com/wanghaohan/confused-eeg/home 
+The data is from kaggle https://www.kaggle.com/wanghaohan/confused-eeg/home 
