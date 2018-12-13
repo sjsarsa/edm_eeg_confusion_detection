@@ -29,7 +29,7 @@ Models used are as follows:
   * (SVC Linear) Support Vector Machine with linear kernel
   
 The models are all tested by 5-fold cross-validation and the results can be seen in the image below.
-![Whoops!](https://github.com/taikamurmeli/edm_eeg_confusion_detection/plots_and_images/plot_original_data.png)
+![Whoops!](https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_original_data.png)
 
 
 ## Leveraging subtitle information
