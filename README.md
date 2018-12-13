@@ -14,7 +14,9 @@ The data we use is hosted on the website [Kaggle](https://www.kaggle.com/wanghao
 
 ## Classifying confusion
 We run multiple models readily implemented for use in Python's Scikit-Learn library in order to have a good baseline for our
-LSTM model. 
+LSTM model. We compute accuracy as our primary metric, since it is the only one used in the papers we base our study on.
+Additionally we provide [F1-score](https://en.wikipedia.org/wiki/F1_score) and [ROC-AUC](https://en.wikipedia.org/wiki/Receiver_operating_characteristic) to gain more insight on the performance of the models.
+
 Models used are as follows:
   * (Naive) Predicts all labels as zero regardless of input
   * (Logreg) Logistic Regression 
@@ -31,6 +33,10 @@ Models used are as follows:
 The models are all tested by 5-fold cross-validation and the results can be seen in the image below.
 ![Whoops!](https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_original_data.png)
 
+From the plot we can see that the best models here (GBT, SVC) achieve near 70% accuracy.
+When compared to Zhuoheng et al's reported results (picture below), the SVC performs similarly but interestingly our KNN performs clearly better than the one in the paper. The paper doesn't report KNN configuration, but their [code](https://github.com/nateanl/EEG_Classification/blob/master/KNN.py) uses sklearn default methods which might explain the differences (TODO: find out).
+
+### Trying to reproduce Confused or not confused? -paper's results 
 
 ## Leveraging subtitle information
 ### Generating subtitle imbeddings
