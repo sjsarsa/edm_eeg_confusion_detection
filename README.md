@@ -1,5 +1,5 @@
-# edm_eeg_confusion_detection
-A project for the Helsinki University course on Educational Data Mining. 
+# Educational Data Mining EEG Confusion Detection
+This is a project for the Helsinki University course on Educational Data Mining. 
 
 ## Our goal
 We follow the example of the paper [Confused or not confused?](https://dl.acm.org/citation.cfm?id=3107513) and try to create a recurrent neural network (RNN) model capable of inferring students' confusion i.e. brain fog during watching online lecture videos. 
