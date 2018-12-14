@@ -2,7 +2,7 @@
 This is a project for the Helsinki University course on Educational Data Mining. 
 
 ## Our goal
-We follow the example of the paper [Confused or not confused?](https://dl.acm.org/citation.cfm?id=3107513) by Zhaoheng Ni et al and try to create a recurrent neural network (RNN) model capable of inferring students' confusion i.e. brain fog during watching online lecture videos. 
+We follow the example of the paper [Confused or not confused?](https://dl.acm.org/citation.cfm?id=3107513) by Ni et al and try to create a recurrent neural network (RNN) model capable of inferring students' confusion i.e. brain fog during watching online lecture videos. 
 
 The authors show in the paper that data obtained from a single-channel EEG headset is enough to classify binary confusion with reasonable accuracy. Our first aim is to replicate the work done in the paper, since the [data](#data) is openly available.
 
@@ -34,9 +34,11 @@ The models are all tested by 5-fold cross-validation and the results can be seen
 ![Whoops!](https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_original_data.png)
 
 From the plot we can see that the best models here (GBT, SVC) achieve near 70% accuracy.
-When compared to Zhuoheng et al's reported results (picture below), the SVC performs similarly but interestingly our KNN performs clearly better than the one in the paper. The paper doesn't report KNN configuration, but their [code](https://github.com/nateanl/EEG_Classification/blob/master/KNN.py) reveals that their input shape for KNN is (12811, 14) and output shape is (12811,). This means that the KNN is attempting to classify confusion for a whole video by just one interval. With proper input i.e. 100 data points with concatenated feature vectors the KNN achieves accuracy of 70.9%. The small difference to our KNN result is likely due to differences in the implementation of cross-validation. We use our own cross-validation whereas the other code uses sklearn's ''[cross_val_score](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html)'' 
+When compared to Zhuoheng et al's reported results (picture below), the SVC performs similarly but interestingly our KNN performs clearly better than the one in the paper. The paper doesn't report KNN configuration, but their [code](https://github.com/nateanl/EEG_Classification/blob/master/KNN.py) reveals that their input shape for KNN is (12811, 14) and output shape is (12811,). This means that the KNN is attempting to classify confusion for a whole video by just one interval. With proper input, i.e. 100 data points with concatenated feature vectors resulting in shape (100, 1344), the KNN achieves accuracy of 70.9%. The small difference to our KNN result is likely due to differences in the implementation of cross-validation. We use our own cross-validation whereas the other code uses sklearn's ''[cross_val_score](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html)'' 
 .
 
+#### Results from the paper "Confused or not confused?"
+[!whoops!](https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_confused_paper_results.png)
 ### Trying to reproduce Confused or not confused? -paper's results 
 
 ## Leveraging subtitle information
