@@ -30,15 +30,18 @@ Models used are as follows:
   * (MLP3) Multilayer Perceptron with 3 hidden layers
   * (SVC Linear) Support Vector Machine with linear kernel
   
-The models are all tested by 5-fold cross-validation and the results can be seen in the image below.
-![Whoops!](https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_original_data.png)
+The models are all tested by 5-fold cross-validation. We didn't however finetune parameters for the various models.
+
+#### Results for cross-validating models:
+<img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_original_data.png" height="250"/>
 
 From the plot we can see that the best models here (GBT, SVC) achieve near 70% accuracy.
 When compared to Zhuoheng et al's reported results (picture below), the SVC performs similarly but interestingly our KNN performs clearly better than the one in the paper. The paper doesn't report KNN configuration, but their [code](https://github.com/nateanl/EEG_Classification/blob/master/KNN.py) reveals that their input shape for KNN is (12811, 14) and output shape is (12811,). This means that the KNN is attempting to classify confusion for a whole video by just one interval. With proper input, i.e. 100 data points with concatenated feature vectors resulting in shape (100, 1344), the KNN achieves accuracy of 70.9%. The small difference to our KNN result is likely due to differences in the implementation of cross-validation. We use our own cross-validation whereas the other code uses sklearn's ''[cross_val_score](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html)'' 
 .
 
-#### Results from the paper "Confused or not confused?"
-[!whoops!](https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_confused_paper_results.png)
+#### Results from the paper "Confused or not confused?":
+<img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_confused_paper_results.png" height="250"/>
+
 ### Trying to reproduce Confused or not confused? -paper's results 
 
 ## Leveraging subtitle information
@@ -53,6 +56,7 @@ Each video was sliced into frames for 0.5 second intervals (using the 1st and 15
 ### Image Data
 Using image data to classify predefined difficulty will overfit on the training set, unless significant pre-processing is done. This is because the videos defined as 'easy' are almost all videos from Khan Academy. The 'difficult' videos typically feature a physical lecturer in front of a blackboard. The initial intention was for the model to learn interesting features from the video data, however given the small size of the dataset and the clear visual distinctions between the two classes, it's likely to only learn that many grayscale values close to 0 (black) indicate 'easy' videos.
 
-### Subtitle Vectors
-![Subtitle Vectors seem to capture the information in the videos](https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_subvecs_for_predefined_labels.png)
+#### Subtitle Vectors
+<img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_subvecs_for_predefined_labels.png" height="250"/>
+
 ## Conclusion
