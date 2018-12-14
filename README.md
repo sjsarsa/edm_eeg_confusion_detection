@@ -42,7 +42,7 @@ When compared to Zhuoheng et al's reported results (picture below), the SVC perf
 #### Results from the paper "Confused or not confused?":
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_confused_paper_results.png" height="250"/>
 
-### Trying to reproduce Confused or not confused? -paper's results 
+### Attempting to reproduce "Confused or not confused?" -paper's results 
 
 ## Leveraging subtitle information
 ### Generating subtitle imbeddings
