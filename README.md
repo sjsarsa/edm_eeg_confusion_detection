@@ -34,7 +34,8 @@ The models are all tested by 5-fold cross-validation and the results can be seen
 ![Whoops!](https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_original_data.png)
 
 From the plot we can see that the best models here (GBT, SVC) achieve near 70% accuracy.
-When compared to Zhuoheng et al's reported results (picture below), the SVC performs similarly but interestingly our KNN performs clearly better than the one in the paper. The paper doesn't report KNN configuration, but their [code](https://github.com/nateanl/EEG_Classification/blob/master/KNN.py) uses sklearn default methods which might explain the differences (TODO: find out).
+When compared to Zhuoheng et al's reported results (picture below), the SVC performs similarly but interestingly our KNN performs clearly better than the one in the paper. The paper doesn't report KNN configuration, but their [code](https://github.com/nateanl/EEG_Classification/blob/master/KNN.py) reveals that their input shape for KNN is (12811, 14) and output shape is (12811,). This means that the KNN is attempting to classify confusion for a whole video by just one interval. With proper input i.e. 100 data points with concatenated feature vectors the KNN achieves accuracy of 70.9%. The small difference to our KNN result is likely due to differences in the implementation of cross-validation. We use our own cross-validation whereas the other code uses sklearn's ''[cross_val_score](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html)'' 
+.
 
 ### Trying to reproduce Confused or not confused? -paper's results 
 
