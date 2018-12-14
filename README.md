@@ -43,7 +43,9 @@ When compared to Zhuoheng et al's reported results (picture below), the SVC perf
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_confused_paper_results.png" height="250"/>
 
 ### Attempting to reproduce "Confused or not confused?" -paper's results 
+Our starting point was to create the model described in Ni et al's paper and try to improve on that. The model consists of  batch normalization layer, a 50 neuron Bidirectional Long-Short Term Memory (LSTM) Recurrent layer as described in the paper, and surprisingly a 112 neuron output layer. We first assumed that the model was supposed to predict 1 output for each subject-video pair that were our data points. However, we had difficulty producing stable results such as described in the paper. Our similar model's accuracy varied from 45% to 80% and even the cross-validation accuracy varied slightly while remaining around 60%. This indicates a high dependence for random initialization of the model and that a regular LSTM probably isn't the best choice for this task.
 
+Luckily we have the [original LSTM model's code](https://github.com/nateanl/EEG_Classification/blob/master/EEG_LSTM.py) and we tested that also. First we simply ran it and got lower results than those in paper. Then for proper validation, we removed the random seeds from the code and put the whole [cross-validation in a for-loop](https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/test_eeg_classification_lstm.ipynb). The accuracy 61.3% was , which is much closer to our attempts than what is in the paper. Thus, if there is no magic performed that has been omitted from the code, it seems that the paper's results are not reproducible.
 ## Leveraging subtitle information
 ### Generating subtitle imbeddings
 ### Applying subtitle vectors to models
