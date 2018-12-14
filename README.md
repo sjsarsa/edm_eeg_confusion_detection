@@ -52,12 +52,15 @@ We decided to test the effect of adding subtitles to test if there was some sema
 #### Results for adding subtitle vecs
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_subvecs.png" height="250"/>
 
-It seems that the subtitle vectors didn't help at all in explaining the students' perceived confusion. For some reason percetron gets good results, but this might be due to chance as all other models don't seem affected. The reason for GBT's fall is simply reducind the number of trees drastically since training it with the vectors was extremely slow. 
+It seems that the subtitle vectors didn't help at all in explaining the students' perceived confusion. For some reason percetron gets good results, but this might be due to chance as all other models don't seem affected. The reason for GBT's fall is simply reducing the number of trees drastically from 777 to 3. The GBT modification is done since training it with the vectors was extremely slow. 
 
 The LSTM model is not shown on the graph, but we can simply note that it did seem to have any effect on the model performance.
 
 Additionally, we tried using PCA to reduce subtitle vector dimensions, since it [can be used to improve word vectors](https://ieeexplore.ieee.org/abstract/document/8500303).
-#### Results for subtitle vecs' principal components
+#### Results for subtitle vecs' 12 principal components
+<img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_pca_sub_vecs.png" height="250"/>
+
+As can be seen, the subtitle vectors with reduced dimensionality don't seem to affect the models and now the GBT performs normally with its 777 estimator trees.
 
 ## Leveraging image data
 Each video was sliced into frames for 0.5 second intervals (using the 1st and 15th frame of each second). These were then loaded into a numpy array as grayscale images.
