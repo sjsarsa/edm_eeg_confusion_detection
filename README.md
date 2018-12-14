@@ -57,6 +57,7 @@ Each video was sliced into frames for 0.5 second intervals (using the 1st and 15
 Using image data to classify predefined difficulty will overfit on the training set, unless significant pre-processing is done. This is because the videos defined as 'easy' are almost all videos from Khan Academy. The 'difficult' videos typically feature a physical lecturer in front of a blackboard. The initial intention was for the model to learn interesting features from the video data, however given the small size of the dataset and the clear visual distinctions between the two classes, it's likely to only learn that many grayscale values close to 0 (black) indicate 'easy' videos.
 
 #### Subtitle Vectors
+Using the baseline models as a comparison, we found a couple of methods worked well in utilizing the information encoded within the subtitle vectors
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_subvecs_for_predefined_labels.png" height="250"/>
 
 ## Conclusion
