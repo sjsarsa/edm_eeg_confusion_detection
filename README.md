@@ -49,8 +49,15 @@ Luckily we have the [original LSTM model's code](https://github.com/nateanl/EEG_
 ## Leveraging subtitle information
 We decided to test the effect of adding subtitles to test if there was some semantic information in the videos that might help classifying confusion. For this we used YouTube's automatic captioning to get the subtitles as captions. We then mapped the captions to the videos' middle minute intervals so that it is in line with the kaggle EEG data. We then used pre-trained [ELMo word embedding model](https://github.com/HIT-SCIR/ELMoForManyLangs/) to convert the subtitles to word vectors and created subtitle vectors by averaging the genereted ELMo word vectors. Finally we added the subtitle vectors to the dataset and tested the models with the combined set.    
 
-#### Results for subtitle vecs and sklearn methods
+#### Results for adding subtitle vecs
+<img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_subvecs.png" height="250"/>
 
+It seems that the subtitle vectors didn't help at all in explaining the students' perceived confusion. For some reason percetron gets good results, but this might be due to chance as all other models don't seem affected. The reason for GBT's fall is simply reducind the number of trees drastically since training it with the vectors was extremely slow. 
+
+The LSTM model is not shown on the graph, but we can simply note that it did seem to have any effect on the model performance.
+
+Additionally, we tried using PCA to reduce subtitle vector dimensions, since it [can be used to improve word vectors](https://ieeexplore.ieee.org/abstract/document/8500303).
+#### Results for subtitle vecs' principal components
 
 ## Leveraging image data
 Each video was sliced into frames for 0.5 second intervals (using the 1st and 15th frame of each second). These were then loaded into a numpy array as grayscale images.
