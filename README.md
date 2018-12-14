@@ -73,7 +73,7 @@ We tested the model ourselves and truly, the model performed well on the pre-def
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/mehmani_results.png" height="300"/> 
 
 #### Baseline model performances for predefined difficulty
-<img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_predefined_labels.png" height="250"
+<img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_predefined_labels.png" height="250"/>
 
 The Mehmani's model seems to be superior in classifying the pre-defined difficulty. 
 ### Image Data
