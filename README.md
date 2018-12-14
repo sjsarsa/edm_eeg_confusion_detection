@@ -47,32 +47,42 @@ Our starting point was to create the model described in Ni et al's paper and try
 
 Luckily we have the [original LSTM model's code](https://github.com/nateanl/EEG_Classification/blob/master/EEG_LSTM.py) and we tested that also. First we simply ran it and got lower results than those in the paper. Then for proper validation, we removed the random seeds from the code and put the whole [cross-validation in a for-loop](https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/test_eeg_classification_lstm.ipynb). The accuracy was 61.3% , which is much closer to our attempts than what is in the paper. Thus, if there is no magic performed that has been omitted from the published code, it seems that the paper's results are not reproducible.
 ## Leveraging subtitle information
-We decided to test the effect of adding subtitles to test if there was some semantic information in the videos that might help classifying confusion. For this we used YouTube's automatic captioning to get the subtitles as captions. We then mapped the captions to the videos' middle minute intervals so that it is in line with the kaggle EEG data. We then used pre-trained [ELMo word embedding model](https://github.com/HIT-SCIR/ELMoForManyLangs/) to convert the subtitles to word vectors and created subtitle vectors by averaging the genereted ELMo word vectors. Finally we added the subtitle vectors to the dataset and tested the models with the combined set.    
+We decided to test the effect of adding subtitles to test if there was some semantic information in the videos that might help classifying confusion. For this we used YouTube's automatic captioning to get the subtitles as captions. We then mapped the captions to the videos' middle minute intervals so that it is in line with the kaggle EEG data. After that, we used pre-trained [ELMo word embedding model](https://github.com/HIT-SCIR/ELMoForManyLangs/) to convert the subtitles to word vectors and created subtitle vectors by averaging the genereted ELMo word vectors. Finally we added the subtitle vectors to the dataset and tested the models with the combined set.    
 
 #### Results for adding subtitle vecs
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_subvecs.png" height="250"/>
 
 It seems that the subtitle vectors didn't help at all in explaining the students' perceived confusion. For some reason percetron gets good results, but this might be due to chance as all other models don't seem affected. The reason for GBT's fall is simply reducing the number of trees drastically from 777 to 3. The GBT modification is done since training it with the vectors was extremely slow. 
 
-The LSTM model is not shown on the graph, but we can simply note that it did seem to have any effect on the model performance.
+The LSTM model is not shown on the graph, but we simply note that it did seem to have any effect on the model performance.
 
 Additionally, we tried using PCA to reduce subtitle vector dimensions, since it [can be used to improve word vectors](https://ieeexplore.ieee.org/abstract/document/8500303).
 #### Results for subtitle vecs' 12 principal components
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_pca_sub_vecs.png" height="250"/>
 
-As can be seen, the subtitle vectors with reduced dimensionality don't seem to affect the models and now the GBT performs normally with its 777 estimator trees.
+As can be seen, the subtitle vectors with reduced dimensionality don't seem to affect the models and now the GBT performs normally with its 777 estimator trees. And the LSTM yet again was unaffected. We also tried several dimension values for PCA, but the effect was minimal.
 
 ## Leveraging image data
 Each video was sliced into frames for 0.5 second intervals (using the 1st and 15th frame of each second). These were then loaded into a numpy array as grayscale images.
 
 ## Classifying predefined difficulty
+We stumbled across [Ali Mehmani's repository] where he had used a Neural Network that combined a 2-dimensional Convolution layer and two LSTM layers. Looking at his code we found that his model was predicting the pre-defined labels of the videos. Also, in comparison to the Ni et al Mehmani used pre-normalized data instead of batch normalization for the neural net.
 
+We tested the model ourselves and truly, the model performed well on the pre-defined labels, however, not so much on the student-defined labels. In any case, the Mehmani model's capability to infer predefined difficulty is rather interesting.
+#### Mehmani model performance
+<img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/mehmani_results.png" height="300"/> 
+
+#### Baseline model performances for predefined difficulty
+<img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_predefined_labels.png" height="250"
+
+The Mehmani's model seems to be superior in classifying the pre-defined difficulty. 
 ### Image Data
 Using image data to classify predefined difficulty will overfit on the training set, unless significant pre-processing is done. This is because the videos defined as 'easy' are almost all videos from Khan Academy. The 'difficult' videos typically feature a physical lecturer in front of a blackboard. The initial intention was for the model to learn interesting features from the video data, however given the small size of the dataset and the clear visual distinctions between the two classes, it's likely to only learn that many grayscale values close to 0 (black) indicate 'easy' videos.
 
-#### Subtitle Vectors
-Using the baseline models as a comparison, we found a couple of methods worked well in utilizing the information encoded within the subtitle vectors.
+### Subtitle Vectors
+Using the baseline models as a comparison, we found a couple of models worked well in utilizing the information encoded within the subtitle vectors. This indicates that the averaged ELMo embeddings carry enough semantic meaning to distuingish the difficult videos from non-difficult videos in this dataset.
 
+#### Model performances for pre-defined difficulty with subtitle vectors
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_subvecs_for_predefined_labels.png" height="250"/>
 
 ## Conclusion
