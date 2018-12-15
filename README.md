@@ -69,13 +69,16 @@ Each video was sliced into frames for 0.5 second intervals (using the 1st and 15
 We stumbled across [Ali Mehmani's repository] where he had used a Neural Network that combined a 2-dimensional Convolution layer and two LSTM layers. Looking at his code we found that his model was predicting the pre-defined labels of the videos. Also, in comparison to the Ni et al Mehmani used pre-normalized data instead of batch normalization for the neural net.
 
 We tested the model ourselves and truly, the model performed well on the pre-defined labels, however, not so much on the student-defined In addition, the model worked well only with zero padded data and not when the data was truncated to the minimum amount of intervals in the watched video data. In any case, the model's capability to infer predefined difficulty is rather interesting.
+
 #### Mehmani model performance
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/mehmani_results.png" height="300"/> 
+Mehamni used ten fold cross-validation, but we got the similar results for our 5-fold cross-validation, accuracy: 0.780, F1: 0.828, and ROC-AUC: 0.809 
 
 #### Baseline model performances for pre-defined difficulty truncated data
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_predefined_labels.png" height="250"/>
 
 Results for Mehmani's model with truncated data for pre-defined labels: accuracy 0.550, F1: 0.536, and ROC-AUC: 0.558
+
 #### Baseline model performances for pre-defined difficulty zero padded data
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_zero_pad_baseline_predefined.png" height="250"/>
 
