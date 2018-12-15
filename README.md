@@ -52,7 +52,7 @@ We decided to test the effect of adding subtitles to test if there was some sema
 #### Results for adding subtitle vecs
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_subvecs.png" height="250"/>
 
-It seems that the subtitle vectors didn't help at all in explaining the students' perceived confusion. For some reason percetron gets good results, but this might be due to chance as all other models don't seem affected. The reason for GBT's fall is simply reducing the number of trees drastically from 777 to 3. The GBT modification is done since training it with the vectors was extremely slow. 
+It seems that the subtitle vectors didn't help at all in explaining the students' perceived confusion. For some reason perceptron gets good results, but this might be due to chance as all other models don't seem affected. The reason for GBT's decreased performance is simply reducing the number of trees drastically from 777 to 3. Thuis GBT modification was necessary since training it with the vectors was extremely slow. 
 
 The LSTM model is not shown on the graph, but we simply note that it did not seem to have any consistant effect on the model performance.
 
@@ -92,6 +92,10 @@ Using the baseline models as a comparison, we found a couple of models worked we
 
 #### Model performances for pre-defined difficulty with subtitle vectors
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_subvecs_for_predefined_labels.png" height="250"/>
-Also Mehmani's model achieved 1.0 for all scores regardless of how the intervals were evened out in the data.
+Mehmani's model achieved 1.0 for all scores regardless of how the intervals were evened out in the data.
 
-## Conclusion
+## Conclusion and Proposed Future Work
+While we were unable to properly replicate the paper's findings, other papers on the subject suggest that it is indeed possible to infer confusion using some form of EEG or EEG-derived data. 
+
+This project and its related paper suffered from a small dataset and sample size. Additionally, the data that has been collected is quite noisy, using a less accurate 'Mindset' headset to collect electrical data from the brain. Using an actual EEG device and a standard 10-20 system would have yieled a better dataset. Additionally, increasing the number of videos from 10 to 20-30, and the number of participants from 10 to 30-50, would also be a worthwhile modification for future work. While it would increase the length of the study, granting students a user interface to highlight sections of video that induced confusion (if any) after watching each video would provide an even more compelling dataset. Identifying the approximate time at which a student became confused and attempting to infer changes in measured ERPs would be a worthwhile research project.
+
