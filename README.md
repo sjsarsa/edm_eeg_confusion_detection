@@ -52,7 +52,7 @@ We decided to test the effect of adding subtitles to test if there was some sema
 #### Results for adding subtitle vecs
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_subvecs.png" height="250"/>
 
-It seems that the subtitle vectors didn't help at all in explaining the students' perceived confusion. For some reason perceptron gets good results, but this might be due to chance as all other models don't seem affected. The reason for GBT's decreased performance is simply reducing the number of trees drastically from 777 to 3. Thuis GBT modification was necessary since training it with the vectors was extremely slow. 
+It seems that the subtitle vectors didn't help at all in explaining the students' perceived confusion. For some reason perceptron gets good results, but this might be due to chance as all other models don't seem affected. The reason for GBT's decreased performance is simply reducing the number of trees drastically from 777 to 3. Thus GBT modification was necessary since training it with the vectors was extremely slow. 
 
 The LSTM model is not shown on the graph, but we simply note that it did not seem to have any consistant effect on the model performance.
 
@@ -66,7 +66,7 @@ As can be seen, the subtitle vectors with reduced dimensionality don't seem to a
 Each video was sliced into frames for 0.5 second intervals (using the 1st and 15th frame of each second). These were then loaded into a numpy array as grayscale images.
 
 ## Classifying predefined difficulty
-We stumbled across [Ali Mehmani's repository] where he had used a Neural Network that combined a 2-dimensional Convolution layer and two LSTM layers. Looking at his code we found that his model was predicting the pre-defined labels of the videos. Also, in comparison to the Ni et al Mehmani used pre-normalized data instead of batch normalization for the neural net.
+We stumbled across [Ali Mehmani's repository] where he had used a Neural Network that combined a 2-dimensional Convolution layer and two LSTM layers. Looking at his code we found that his model was predicting the pre-defined labels of the videos. Also, in comparison to Ni et al, Mehmani used pre-normalized data instead of batch normalization for the neural net.
 
 We tested the model ourselves and truly, the model performed well on the pre-defined labels, however, not so much on the student-defined In addition, the model worked well only with zero padded data and not when the data was truncated to the minimum amount of intervals in the watched video data. In any case, the model's capability to infer predefined difficulty is rather interesting.
 
