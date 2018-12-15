@@ -68,14 +68,17 @@ Each video was sliced into frames for 0.5 second intervals (using the 1st and 15
 ## Classifying predefined difficulty
 We stumbled across [Ali Mehmani's repository] where he had used a Neural Network that combined a 2-dimensional Convolution layer and two LSTM layers. Looking at his code we found that his model was predicting the pre-defined labels of the videos. Also, in comparison to the Ni et al Mehmani used pre-normalized data instead of batch normalization for the neural net.
 
-We tested the model ourselves and truly, the model performed well on the pre-defined labels, however, not so much on the student-defined labels. In any case, the Mehmani model's capability to infer predefined difficulty is rather interesting.
+We tested the model ourselves and truly, the model performed well on the pre-defined labels, however, not so much on the student-defined In addition, the model worked well only with zero padded data and not when the data was truncated to the minimum amount of intervals in the watched video data. In any case, the model's capability to infer predefined difficulty is rather interesting.
 #### Mehmani model performance
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/mehmani_results.png" height="300"/> 
 
-#### Baseline model performances for predefined difficulty
+#### Baseline model performances for pre-defined difficulty truncated data
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_predefined_labels.png" height="250"/>
 
-The accuracy line here lies behind the ROC-AUC score and we can see that the Mehmani's model seems to be superior in classifying the pre-defined difficulty. 
+#### Baseline model performances for pre-defined difficulty zero padded data
+<img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_zero_pad_baseline_predefined.png" height="250"/>
+
+The accuracy line here lies behind the ROC-AUC score and we can see that the Mehmani's model performance seems similar to decision tree based classifiers when predicting the pre-defined difficulty. Interestingly the way we even out the data has a huge efect on model performance as can be seen from comparing the plots with truncated and zero padded data. For predicting student-defined labels the effect was the opposite for all models.  
 
 ### Image Data
 Using image data to classify predefined difficulty will overfit on the training set, unless significant pre-processing is done. This is because the videos defined as 'easy' are almost all videos from Khan Academy. The 'difficult' videos typically feature a physical lecturer in front of a blackboard. The initial intention was for the model to learn interesting features from the video data, however given the small size of the dataset and the clear visual distinctions between the two classes, it's likely to only learn that many grayscale values close to 0 (black) indicate 'easy' videos.
