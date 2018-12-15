@@ -54,7 +54,7 @@ We decided to test the effect of adding subtitles to test if there was some sema
 
 It seems that the subtitle vectors didn't help at all in explaining the students' perceived confusion. For some reason percetron gets good results, but this might be due to chance as all other models don't seem affected. The reason for GBT's fall is simply reducing the number of trees drastically from 777 to 3. The GBT modification is done since training it with the vectors was extremely slow. 
 
-The LSTM model is not shown on the graph, but we simply note that it did seem to have any effect on the model performance.
+The LSTM model is not shown on the graph, but we simply note that it did not seem to have any consistant effect on the model performance.
 
 Additionally, we tried using PCA to reduce subtitle vector dimensions, since it [can be used to improve word vectors](https://ieeexplore.ieee.org/abstract/document/8500303).
 #### Results for subtitle vecs' 12 principal components
@@ -72,7 +72,7 @@ We tested the model ourselves and truly, the model performed well on the pre-def
 
 #### Mehmani model performance
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/mehmani_results.png" height="300"/> 
-Mehamni used ten fold cross-validation, but we got the similar results for our 5-fold cross-validation, accuracy: 0.780, F1: 0.828, and ROC-AUC: 0.809 
+Mehamni used 10-fold cross-validation, but we got the similar results for our 5-fold cross-validation, accuracy: 0.780, F1: 0.828, and ROC-AUC: 0.809 
 
 #### Baseline model performances for pre-defined difficulty truncated data
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_predefined_labels.png" height="250"/>
