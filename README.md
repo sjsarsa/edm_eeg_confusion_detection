@@ -75,6 +75,7 @@ We tested the model ourselves and truly, the model performed well on the pre-def
 #### Baseline model performances for pre-defined difficulty truncated data
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_predefined_labels.png" height="250"/>
 
+Results for Mehmani's model with truncated data for pre-defined labels: accuracy 0.550, F1: 0.536, and ROC-AUC: 0.558
 #### Baseline model performances for pre-defined difficulty zero padded data
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_zero_pad_baseline_predefined.png" height="250"/>
 
@@ -88,5 +89,5 @@ Using the baseline models as a comparison, we found a couple of models worked we
 
 #### Model performances for pre-defined difficulty with subtitle vectors
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_subvecs_for_predefined_labels.png" height="250"/>
-
+Also Mehmani's model achieved 1.0 for all scores regardless of how the intervals were evened out in the data.
 ## Conclusion
