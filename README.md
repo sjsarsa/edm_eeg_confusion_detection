@@ -66,6 +66,8 @@ As can be seen, the subtitle vectors with reduced dimensionality don't seem to a
 ## Leveraging image data
 Each video was sliced into frames for 0.5 second intervals (using the 1st and 15th frame of each second). These were then loaded into a numpy array as grayscale images. This array was then flattened and merged with the original EEG data. The same methods used in the subtitle vectors benchmark were used to train a variety of classifiers. <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_image_classification_rescale.png" height="250"/>
 
+Using image data to classify predefined difficulty seems to pick up on the fact that the videos of different difficulties also have distinct visual characteristics. The videos defined as 'easy' are almost all videos from Khan Academy. The 'difficult' videos typically feature a physical lecturer in front of a blackboard. The initial intention was for the model to learn interesting features from the video data using convolutional neural networks, however given the small size of the dataset and the clear visual distinctions between the two classes, it's likely to only learn that many grayscale values close to 0 (black) indicate 'easy' videos. It is likely that this explains the relatively good accuracy obtained with the baseline methods. Using a visually diverse array of videos would most likely reduce the performance of these baseline methods.
+
 ## Classifying predefined difficulty
 We stumbled across [Ali Mehmani's repository] where he had used a Neural Network that combined a 2-dimensional Convolution layer and two LSTM layers. Looking at his code we found that his model was predicting the pre-defined labels of the videos. Also, in comparison to Ni et al, Mehmani used pre-normalized data instead of batch normalization for the neural net.
 
@@ -84,9 +86,6 @@ Results for Mehmani's model with truncated data for pre-defined labels: accuracy
 <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_zero_pad_baseline_predefined.png" height="250"/>
 
 The accuracy line here lies behind the ROC-AUC score and we can see that the Mehmani's model performance seems similar to decision tree based classifiers when predicting the pre-defined difficulty. Interestingly the way we even out the data has a huge efect on model performance as can be seen from comparing the plots with truncated and zero padded data. For predicting student-defined labels the effect was the opposite for all models.  
-
-### Image Data
-Using image data to classify predefined difficulty will overfit on the training set, unless significant pre-processing is done. This is because the videos defined as 'easy' are almost all videos from Khan Academy. The 'difficult' videos typically feature a physical lecturer in front of a blackboard. The initial intention was for the model to learn interesting features from the video data, however given the small size of the dataset and the clear visual distinctions between the two classes, it's likely to only learn that many grayscale values close to 0 (black) indicate 'easy' videos.
 
 ### Subtitle Vectors
 Using the baseline models as a comparison, we found a couple of models worked well in utilizing the information encoded within the subtitle vectors. This indicates that the averaged ELMo embeddings carry enough semantic meaning to distuingish the difficult videos from non-difficult videos in this dataset.
