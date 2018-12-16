@@ -64,7 +64,7 @@ Additionally, we tried using PCA to reduce subtitle vector dimensions, since it 
 As can be seen, the subtitle vectors with reduced dimensionality don't seem to affect the models and now the GBT performs normally with its 777 estimator trees. And the LSTM yet again was unaffected. We also tried several dimension values for PCA, but the effect was minimal.
 
 ## Leveraging image data
-Each video was sliced into frames for 0.5 second intervals (using the 1st and 15th frame of each second). These were then loaded into a numpy array as grayscale images. This array was then flattened and merged with the original EEG data. The same methods used in the subtitle vectors benchmark were used to train a variety of classifiers. <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_image_classification_rescaled.png" height="250"/>
+Each video was sliced into frames for 0.5 second intervals (using the 1st and 15th frame of each second). These were then loaded into a numpy array as grayscale images. This array was then flattened and merged with the original EEG data. The same methods used in the subtitle vectors benchmark were used to train a variety of classifiers. <img src="https://github.com/taikamurmeli/edm_eeg_confusion_detection/blob/master/plots_and_images/plot_image_classification_rescale.png" height="250"/>
 
 ## Classifying predefined difficulty
 We stumbled across [Ali Mehmani's repository] where he had used a Neural Network that combined a 2-dimensional Convolution layer and two LSTM layers. Looking at his code we found that his model was predicting the pre-defined labels of the videos. Also, in comparison to Ni et al, Mehmani used pre-normalized data instead of batch normalization for the neural net.
